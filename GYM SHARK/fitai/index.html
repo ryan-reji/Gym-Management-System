@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+
+
+    <title>Gym Trainer Portfolio</title>
+</head>
+
+<body>
+    <header>
+        <a href="#" class="logo"><strong>GYM SHARK</strong></a>
+        <nav>
+            <a href="../home.html">HOME</a> <!-- New Welcome Tab -->
+            <a href="../index.html">TRAINERS</a>
+            <a href="../../plan_section/">PLANS</a>
+            <a href="./index.html" class="active">FITAI</a>
+            <a href="../faq.html">FAQ</a>
+            <a href="../about.html">ABOUT</a>
+            <a href="../../Login/index.php">LOGIN</a>
+        </nav>
+    </header>
+        <div class="right-nav">
+            <div class="select-box">
+                <div class="select-heading"><span>All Workout</span> <img src="arrow.svg" alt="img"></div>
+                <div class="options">
+                    <a href="workout.html">
+                        <div class="option">All Workout</div>
+                    </a>
+                    <a href="back.html">
+                        <div class="option">Back Workout</div>
+                    </a>
+                    <a href="chest.html">
+                        <div class="option">Chest Workout</div>
+                    </a>
+                    <a href="biceps-triceps.html">
+                        <div class="option">Biceps & Triceps</div>
+                    </a>
+                    <a href="shoulder.html">
+                        <div class="option">Shoulder</div>
+                    </a>
+                    <a href="leg.html">
+                        <div class="option">Leg Workout</div>
+                    </a>
+                    <a href="home-workout.html">
+                        <div class="option">Home Workout</div>
+                    </a>
+
+                </div>
+            </div>
+            <img src="chatbot.svg" alt="img" id="chatbotimg">
+        </div>
+
+    <h1 class="bgtext">Ai Powered Fitness Website</h1>
+    <div class="chat-box">
+        <div class="h1">Talk to your own assistant...</div>
+        <div class="chat-container">
+
+        </div>
+        <div class="input-area">
+            <input type="text" class="prompt" placeholder="ask anything...">
+            <button><img src="btn.svg" alt="img"></button>
+        </div>
+    </div>
+
+    <div class="virtual-assistant">
+        <img src="ai.png" alt="img" width="120px">
+    </div>
+
+    <div class="speak-page">
+        <select id="languageSelect">
+            <option value="en-US">English (US)</option>
+            <option value="hi-GB">Hindi (India)</option>
+
+        </select>
+        <img src="ai.png" alt="img" width="200px">
+        <h1>speak Now</h1>
+        <img src="voice.gif" alt="img" width="200px" id="voice">
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>

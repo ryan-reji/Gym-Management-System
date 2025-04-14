@@ -1,0 +1,45 @@
+/* Header and Navbar Styles */
+header {
+    background: #000; /* Black background */
+    padding: 10px 20px;
+    position: fixed;
+    width: 100%;
+    z-index: 10;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: #b74b4b; /* Dark red */
+    margin: 0;
+  }
+  
+  .navbar nav {
+    display: flex;
+    align-items: center;
+  }
+  
+  .navbar nav a {
+    color: #fff; /* White text */
+    text-decoration: none;
+    margin: 0 15px; /* Spacing between links */
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase; /* Make text uppercase */
+    position: relative;
+    padding: 5px 0; /* Add padding for better click area */
+  }
+  
+  .navbar nav a:hover,
+  .navbar nav a.active {
+    color: #b74b4b; /* Dark red color for active/hover */
+  }
+  
+  .navbar nav a.active {
+    text-decoration: underline; /* Underline active link */
+  }
+
+  

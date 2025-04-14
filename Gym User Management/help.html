@@ -1,0 +1,424 @@
+<?php
+// Default to 'help' tab
+$current_page = 'help';
+?>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GymShark - Help & Support</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        /* Help Page Specific Styles */
+        .help-container {
+            display: grid;
+            grid-template-columns: 2fr 1fr;
+            gap: 1.5rem;
+        }
+        
+        .help-box, .faq-box, .contact-box {
+            background: var(--card-bg);
+            backdrop-filter: blur(15px);
+            -webkit-backdrop-filter: blur(15px);
+            border-radius: var(--border-radius);
+            box-shadow: var(--shadow-md);
+            padding: 1.5rem;
+            transition: transform var(--transition-speed), box-shadow var(--transition-speed);
+        }
+        
+        .help-box:hover, .faq-box:hover, .contact-box:hover {
+            transform: translateY(-4px);
+            box-shadow: var(--shadow-lg);
+        }
+        
+        .help-box h3, .faq-box h3, .contact-box h3 {
+            color: var(--text-primary);
+            margin-bottom: 1rem;
+            font-size: 1.1rem;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+        }
+        
+        .help-box h3::before, .faq-box h3::before, .contact-box h3::before {
+            font-family: 'Font Awesome 6 Free';
+            font-weight: 900;
+            margin-right: 0.5rem;
+            color: var(--primary-color);
+        }
+        
+        .help-box h3::before {
+            content: '\f05a';
+        }
+        
+        .faq-box h3::before {
+            content: '\f128';
+        }
+        
+        .contact-box h3::before {
+            content: '\f095';
+        }
+        
+        .help-box p, .faq-box p, .contact-box p {
+            color: var(--text-secondary);
+            line-height: 1.6;
+            margin-bottom: 1rem;
+        }
+        
+        .help-list {
+            list-style-type: none;
+            padding-left: 0;
+            margin-bottom: 1rem;
+        }
+        
+        .help-list li {
+            color: var(--text-secondary);
+            margin-bottom: 0.75rem;
+            padding-left: 1.5rem;
+            position: relative;
+        }
+        
+        .help-list li::before {
+            content: '\f054';
+            font-family: 'Font Awesome 6 Free';
+            font-weight: 900;
+            position: absolute;
+            left: 0;
+            color: var(--primary-color);
+            font-size: 0.75rem;
+        }
+        
+        .help-list li strong {
+            color: var(--text-primary);
+            font-weight: 600;
+        }
+        
+        .faq-item {
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+            padding: 1rem 0;
+        }
+        
+        .faq-item:last-child {
+            border-bottom: none;
+        }
+        
+        .faq-question {
+            color: var(--text-primary);
+            font-weight: 600;
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            transition: color var(--transition-speed);
+        }
+        
+        .faq-question:hover {
+            color: var(--primary-color);
+        }
+        
+        .faq-question::after {
+            content: '\f107';
+            font-family: 'Font Awesome 6 Free';
+            font-weight: 900;
+            color: var(--primary-color);
+            transition: transform var(--transition-speed);
+        }
+        
+        .faq-question.active::after {
+            transform: rotate(180deg);
+        }
+        
+        .faq-answer {
+            padding: 1rem 0 0.5rem;
+            color: var(--text-secondary);
+            display: none;
+        }
+        
+        .faq-answer.show {
+            display: block;
+        }
+        
+        .contact-box ul {
+            padding-left: 0;
+        }
+        
+        .contact-box li {
+            display: flex;
+            align-items: center;
+            margin-bottom: 1rem;
+            color: var(--text-secondary);
+        }
+        
+        .contact-box li i {
+            color: var(--primary-color);
+            margin-right: 0.75rem;
+            width: 1.5rem;
+            text-align: center;
+        }
+        
+        .contact-box li strong {
+            color: var(--text-primary);
+            margin-right: 0.5rem;
+        }
+        
+        .help-right-section {
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+        }
+        
+        .header {
+            margin-bottom: 2rem;
+        }
+        
+        @media screen and (max-width: 992px) {
+            .help-container {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Mobile Navigation Toggle -->
+        <div class="mobile-nav-toggle">
+            <i class="fas fa-bars"></i>
+        </div>
+
+        <!-- Sidebar Navigation -->
+        <nav class="sidebar">
+            <div class="sidebar-header">
+                <i class="fas fa-dumbbell logo-icon"></i>
+                <h2>GymShark</h2>
+                <div class="close-sidebar">
+                    <i class="fas fa-times"></i>
+                </div>
+            </div>
+            
+            <div class="user-profile">
+                <div class="avatar">
+                    <i class="fas fa-user"></i>
+                </div>
+                <div class="user-info">
+                    <h3>Welcome</h3>
+                    <p>Fitness Enthusiast</p>
+                </div>
+            </div>
+
+            <ul class="nav-links">
+                <li>
+                    <a href="index.html">
+                        <i class="fas fa-home"></i>
+                        <span>Home</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="bookings.html">
+                        <i class="fas fa-calendar-alt"></i>
+                        <span>Bookings</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="profile.html">
+                        <i class="fas fa-user-circle"></i>
+                        <span>Profile</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="statistics.html">
+                        <i class="fas fa-chart-line"></i>
+                        <span>Statistics</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="plans.html">
+                        <i class="fas fa-tasks"></i>
+                        <span>Workout Plans</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="bmi.php">
+                        <i class="fas fa-weight"></i>
+                        <span>BMI Scale</span>
+                    </a>
+                </li>
+                <li class="active">
+                    <a href="help.php">
+                        <i class="fas fa-question-circle"></i>
+                        <span>Help & Support</span>
+                    </a>
+                </li>
+            </ul>
+
+            <div class="sidebar-footer">
+                <a href="logout.html" class="logout-button">
+                    <i class="fas fa-sign-out-alt"></i>
+                    <span>Logout</span>
+                </a>
+            </div>
+        </nav>
+        
+        <!-- Main Content -->
+        <div class="main-content">
+            <div class="header">
+                <div class="greeting">
+                    <h1>Help & Support</h1>
+                    <p>Get assistance and answers to common questions</p>
+                </div>
+                <div class="header-actions">
+                    <div class="notification-icon">
+                        <i class="fas fa-bell"></i>
+                        <span class="badge">3</span>
+                    </div>
+                    <div class="date-display">
+                        <i class="fas fa-calendar"></i>
+                        <span id="current-date">April 2, 2025</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="help-container">
+                <div class="help-box">
+                    <h3>Getting Started</h3>
+                    <p>Welcome to the GymShark management system. Here's how to get the most out of your membership:</p>
+                    <ul class="help-list">
+                        <li><strong>Home Page:</strong> View your recent activities, upcoming classes, and attendance history at a glance.</li>
+                        <li><strong>Bookings:</strong> Schedule training sessions with our fitness professionals.</li>
+                        <li><strong>Profile:</strong> Update your personal information and preferences.</li>
+                        <li><strong>Statistics:</strong> Track your progress and fitness achievements.</li>
+                        <li><strong>Workout Plans:</strong> Access personalized workout routines.</li>
+                        <li><strong>BMI Scale:</strong> Calculate your Body Mass Index and get personalized health recommendations.</li>
+                    </ul>
+                    
+                    <div class="faq-box" style="margin-top: 1.5rem;">
+                        <h3>Frequently Asked Questions</h3>
+                        
+                        <div class="faq-item">
+                            <div class="faq-question">How do I book a training session?</div>
+                            <div class="faq-answer">
+                                <p>To book a training session:</p>
+                                <ol class="help-list">
+                                    <li>Navigate to the "Bookings" tab in the sidebar</li>
+                                    <li>Select your preferred date and time</li>
+                                    <li>Choose the session duration and workout type</li>
+                                    <li>Click "Book Session" to confirm your booking</li>
+                                </ol>
+                            </div>
+                        </div>
+                        
+                        <div class="faq-item">
+                            <div class="faq-question">How do I renew my membership plan?</div>
+                            <div class="faq-answer">
+                                <p>To renew your membership plan:</p>
+                                <ol class="help-list">
+                                    <li>Go to the "Profile" tab</li>
+                                    <li>Scroll down to the "Plan Details" section</li>
+                                    <li>Click the "RENEW PLAN" button at the bottom of the page</li>
+                                    <li>Follow the payment instructions to complete your renewal</li>
+                                </ol>
+                            </div>
+                        </div>
+                        
+                        <div class="faq-item">
+                            <div class="faq-question">What does my BMI result mean?</div>
+                            <div class="faq-answer">
+                                <p>Your BMI (Body Mass Index) provides a general indication of your weight category:</p>
+                                <ul class="help-list">
+                                    <li><strong>Below 18.5:</strong> Underweight - You may need to gain some weight</li>
+                                    <li><strong>18.5 to 24.9:</strong> Normal weight - Maintain your current healthy lifestyle</li>
+                                    <li><strong>25 to 29.9:</strong> Overweight - Consider making lifestyle adjustments</li>
+                                    <li><strong>30 and above:</strong> Obese - Medical advice recommended</li>
+                                </ul>
+                                <p>Remember, BMI is just one measure of health and doesn't account for factors like muscle mass, body composition, or individual health conditions.</p>
+                            </div>
+                        </div>
+                        
+                        <div class="faq-item">
+                            <div class="faq-question">How can I track my gym attendance?</div>
+                            <div class="faq-answer">
+                                <p>Your gym attendance is automatically tracked whenever you check in at the gym. You can view your attendance history on the Statistics page, where you'll find an attendance heat map displaying your visits for the current month.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="help-right-section">
+                    <div class="contact-box">
+                        <h3>Contact Support</h3>
+                        <p>If you need further assistance, our support team is ready to help you:</p>
+                        <ul class="help-list">
+                            <li><i class="fas fa-envelope"></i> <strong>Email:</strong> support@gymshark.com</li>
+                            <li><i class="fas fa-phone-alt"></i> <strong>Phone:</strong> (555) 123-4567</li>
+                            <li><i class="fas fa-clock"></i> <strong>Hours:</strong> Monday-Friday, 8:00 AM - 8:00 PM</li>
+                            <li><i class="fas fa-map-marker-alt"></i> <strong>In Person:</strong> Visit the front desk during gym operating hours</li>
+                        </ul>
+                    </div>
+                    
+                    <div class="help-box">
+                        <h3>Quick Tips</h3>
+                        <ul class="help-list">
+                            <li>Use the search function to quickly find specific workouts</li>
+                            <li>Set up notifications to receive reminders before your booked sessions</li>
+                            <li>Update your profile with health conditions for personalized recommendations</li>
+                            <li>Check the Statistics page weekly to track your progress</li>
+                            <li>Download workout plans to use offline at the gym</li>
+                        </ul>
+                    </div>
+                    
+                    <div class="help-box">
+                        <h3>Video Tutorials</h3>
+                        <ul class="help-list">
+                            <li><i class="fas fa-play-circle"></i> <strong>Getting Started Guide</strong></li>
+                            <li><i class="fas fa-play-circle"></i> <strong>How to Book Sessions</strong></li>
+                            <li><i class="fas fa-play-circle"></i> <strong>Understanding Your Statistics</strong></li>
+                            <li><i class="fas fa-play-circle"></i> <strong>Creating Custom Workout Plans</strong></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        // Toggle mobile sidebar
+        document.querySelector('.mobile-nav-toggle').addEventListener('click', function() {
+            document.querySelector('.sidebar').classList.add('active');
+        });
+        
+        document.querySelector('.close-sidebar').addEventListener('click', function() {
+            document.querySelector('.sidebar').classList.remove('active');
+        });
+
+        // Current date display
+        const options = { year: 'numeric', month: 'long', day: 'numeric' };
+        document.getElementById('current-date').textContent = new Date().toLocaleDateString('en-US', options);
+
+        // FAQ toggle functionality
+        const faqQuestions = document.querySelectorAll('.faq-question');
+        
+        faqQuestions.forEach(question => {
+            question.addEventListener('click', () => {
+                const answer = question.nextElementSibling;
+                
+                // Check if this question is already active
+                const isActive = question.classList.contains('active');
+                
+                // Close all FAQs
+                faqQuestions.forEach(q => {
+                    q.classList.remove('active');
+                    q.nextElementSibling.classList.remove('show');
+                });
+                
+                // If it wasn't active before, open it
+                if (!isActive) {
+                    question.classList.add('active');
+                    answer.classList.add('show');
+                }
+            });
+        });
+    </script>
+</body>
+</html>

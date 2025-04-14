@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fitness Signup Page</title>
+    <script>
+        function calculateAge(birthDate) {
+            const today = new Date();
+            const birth = new Date(birthDate);
+            let age = today.getFullYear() - birth.getFullYear();
+            const monthDiff = today.getMonth() - birth.getMonth();
+            
+            if (monthDiff < 0 || (monthDiff === 0 && today.getDate() < birth.getDate())) {
+                age--;
+            }
+            return age;
+        }
+
+        function validatePassword() {
+            var password = document.getElementById("password").value;
+            var confirmPassword = document.getElementById("confirmPassword").value;
+            var errorMessage = document.getElementById("password-error");
+            
+            if (password !== confirmPassword) {
+                errorMessage.textContent = "Passwords do not match!";
+                document.getElementById("confirmPassword").classList.add("error");
+                return false;
+            } else {
+                errorMessage.textContent = "";
+                document.getElementById("confirmPassword").classList.remove("error");
+                return true;
+            }
+        }
+
+        function validateAge() {
+            var dob = document.getElementById("dob").value;
+            var ageError = document.getElementById("age-error");
+            
+            if (dob) {
+                var age = calculateAge(dob);
+                if (age < 14) {
+                    ageError.textContent = "You must be at least 14 years old to register.";
+                    document.getElementById("dob").classList.add("error");
+                    return false;
+                } else {
+                    ageError.textContent = "";
+                    document.getElementById("dob").classList.remove("error");
+                    return true;
+                }
+            }
+            return true;
+        }
+
+        function validateForm() {
+            const isPasswordValid = validatePassword();
+            const isAgeValid = validateAge();
+            return isPasswordValid && isAgeValid;
+        }
+
+        window.onload = function() {
+            // Set max date for DOB
+            var today = new Date();
+            var dd = String(today.getDate()).padStart(2, '0');
+            var mm = String(today.getMonth() + 1).padStart(2, '0');
+            var yyyy = today.getFullYear();
+            today = yyyy + '-' + mm + '-' + dd;
+            document.getElementById("dob").max = today;
+
+            // Add event listeners for real-time validation
+            document.getElementById("password").addEventListener("input", validatePassword);
+            document.getElementById("confirmPassword").addEventListener("input", validatePassword);
+            document.getElementById("dob").addEventListener("change", validateAge);
+            const params = new URLSearchParams(window.location.search);
+        const errorMessage = params.get("error");
+        if (errorMessage) {
+            document.getElementById("username-error").textContent = errorMessage;
+            document.getElementById("username").classList.add("error");
+        }
+        }
+    </script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;800&display=swap');
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: #0a0a0a   ;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            font-family: 'Montserrat', sans-serif;
+            height: 100vh;
+            margin: 0;
+            background-image: url('your-fitness-background-image-path'); /* Add your fitness background image here */
+            background-size: cover;
+            background-position: center;
+            color: #fff; /* Make text white to stand out on dark background */
+        }
+
+        .container {
+    background-color: #1e1e1e;
+    border-radius: 20px;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+    position: relative;
+    overflow: hidden;
+    width: 1100px;
+    max-width: 100%;
+    min-height:750px;
+    border: 2px solid #fff; /* White border around the container */
+}
+
+        .form-container {
+            position: absolute;
+            top: 0;
+            height: 100%;
+            transition: all 0.6s ease-in-out;
+        }
+
+        .sign-in-container {
+            right: 0;
+            width: 50%;
+            z-index: 2;
+        }
+
+        form {
+            background-color: #1e1e1e;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            padding: 0 50px;
+            height: 100%;
+            text-align: center;
+        }
+
+        h1 {
+            font-weight: bold;
+            margin: 0;
+            color: #f05454;
+        }
+
+        p {
+            font-size: 14px;
+            font-weight: 100;
+            line-height: 20px;
+            letter-spacing: 0.5px;
+            margin: 20px 0 30px;
+            color: #aaa;
+        }
+
+        input {
+            background-color: #333;
+            border: none;
+            border-radius: 7px;
+            padding: 12px 15px;
+            margin: 8px 0;
+            width: 100%;
+            color: #fff;
+        }
+        button:hover {
+            background-color: #ff7979;
+        }
+        input::placeholder {
+            color: #aaa;
+        }
+ 
+        a {
+            color: #ff4b2b;
+            font-size: 14px;
+            text-decoration: none;
+            margin: 15px 0;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        button {
+            border-radius: 20px;
+            border: 1px solid #ff4b2b;
+            background-color: #ff4b2b;
+            color: #fff;
+            font-size: 12px;
+            font-weight: bold;
+            padding: 12px 45px;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            transition: transform 80ms ease-in;
+            cursor: pointer;
+        }
+
+        button:active {
+            transform: scale(0.95);
+        }
+
+        .overlay-container {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 50%;
+            height: 100%;
+            overflow: hidden;
+            transition: transform 0.6s ease-in-out;
+            z-index: 100;
+        }
+
+        .overlay {
+            background: linear-gradient(to right, #1e1e1e, #333);
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+            color: #FFFFFF;
+            position: relative;
+            left: 0;
+            height: 100%;
+            width: 200%;
+            transform: translateX(0);
+            transition: transform 0.6s ease-in-out;
+        }
+
+        .overlay-panel {
+            position: absolute;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            padding: 0 40px;
+            text-align: center;
+            top: 0;
+            height: 100%;
+            width: 50%;
+            transform: translateX(0);
+            transition: transform 0.6s ease-in-out;
+        }
+        .overlay-panel h1 {
+            font-weight: bold;
+            color: #f05454;
+        }
+        .overlay-panel p {
+            color: #ddd;
+        }
+        .overlay-left {
+            left: 0;
+            transform: translateX(0);
+        }
+
+        .overlay-panel button {
+            border: 1px solid white;
+            background-color: transparent;
+            border-color: #FFFFFF;
+            color: #f35c54;
+        }
+
+        span {
+            color: #ff4b2b;
+        }
+
+        .radiogender {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin: 10px 0;
+            color: #fff;
+        }
+        .error-message {
+            color: #ff4b2b;
+            font-size: 13px;
+            margin-top: 0px;
+            min-height: 15px;
+        }
+        
+        input.error {
+            border: 1px solid #ff4b2b;
+        }
+        header {
+    margin-top: 0px;
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 0.01rem 9%;
+    background-color: transparent;
+    filter: drop-shadow(10px);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+}
+
+.logo {
+    font-size: 2rem;
+    color: #b74b4b;
+    font-weight: 800;
+    cursor: pointer;
+    transition: 0.5s ease;
+}
+
+.logo:hover {
+    transform: scale(1.1);
+}
+
+    </style>
+    
+</head>
+<header>
+    <a href="../GYM SHARK/home.html" class="logo"><strong>GYM SHARK</strong></a>
+    
+  </header>
+<body>
+    <div class="container" id="container">
+        <div class="overlay-container">
+            <div class="overlay">
+                <div class="overlay-panel overlay-left">
+                    <h1>Already a user?</h1>
+                    <p>Login with your personal credentials to enjoy our services.</p>
+                    <button id="signUp" onclick="location.href='index.php'">Login</button>
+                </div>
+            </div>
+        </div>
+        <div class="form-container sign-in-container">
+            <form action="connect.php" method="post" onsubmit="return validateForm()">
+                <h1>Sign up</h1>
+                <p>Enter your details</p>
+                <input type="name" placeholder="First Name" required="" name="FirstName"/>
+                <input type="name" placeholder="Last Name" required="" name="LastName"/>
+                <input type="number" placeholder="Mobile number" required="" name="number"/>
+                <input type="email" placeholder="Email" required="" name="email"/>
+                <input type="date" id="dob" placeholder="Date of Birth" required="" name="dob"/>
+                <div id="age-error" class="error-message"></div>
+                <div class="radiogender">
+                    <label for="gender">Gender:</label>
+                    <label for="male">Male</label>
+                    <input type="radio" id="male" name="gender" value="m" required>
+                    <label for="female">Female</label>
+                    <input type="radio" id="female" name="gender" value="f" required>
+                    <label for="other">Other</label>
+                    <input type="radio" id="other" name="gender" value="o" required>
+                </div>
+                <input type="name" placeholder="Username" required="" name="username"/>
+                <input type="password" id="password" placeholder="Password" required="" name="password"/>
+                <input type="password" id="confirmPassword" placeholder="Confirm Password" name="confirmPassword" required=""/>
+                <div id="password-error" class="error-message"></div>
+                <div id="username-error" class="error-message"></div>
+                <br>
+                <button type="submit">Sign up</button>
+            </form>
+        </div>
+
+    </div>
+</body>
+</html>

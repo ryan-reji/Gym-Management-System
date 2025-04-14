@@ -1,0 +1,271 @@
+/*======================
+   02. Basic css
+========================*/
+body {
+    line-height: 26px;
+    background: #000000;
+    color: #ffffff;
+    font-family: 'Poppins', sans-serif;
+}
+
+/*======================
+   03. price css
+========================*/
+.price-wrapper {
+    padding-top: 80px 0;
+    background: #000000;
+}
+
+.head-text {
+    font-size: 40px;
+    color: #ffffff;
+    font-weight: 700;
+}
+
+.price-box {
+    position: relative;
+    padding: 45px 30px;
+    background: #1a1a1a;
+    margin-top: 40px;
+    transition: .3s;
+    min-height: 500px; /* Set a consistent height */
+    display: flex;
+    flex-direction: column;
+}
+
+.price-box:hover {
+    background: #ff0000;
+    color: #ffffff;
+}
+
+.price-ab-text {
+    background: #ff0000;
+    position: absolute;
+    top: 0;
+    left: 40px;
+    padding: 4px 15px;
+    font-size: 16px;
+    color: #ffffff;
+    line-height: 20px;
+}
+
+.price-box h2 {
+    font-size: 60px;
+    font-weight: 700;
+    color: #ff0000;
+    transition: .3s;
+}
+
+.price-box:hover h2 {
+    color: #ffffff;
+}
+
+.price-box h2 span {
+    font-size: 16px;
+    color: #ffffff;
+    font-weight: 400;
+}
+
+.price-box p {
+    font-size: 15px;
+    padding: 10px 0;
+    color: #cccccc;
+    transition: .3s;
+}
+
+.price-box:hover p {
+    color: #ffffff;
+}
+
+.price-box ul {
+    border-top: 1px solid rgba(255, 255, 255, 0.3);
+    padding: 15px 0;
+    margin-top: auto; /* Push the list to the bottom */
+    margin-bottom: 20px;
+}
+
+.price-box ul li {
+    position: relative;
+    padding: 5px 0 5px 40px;
+    margin: 10px 0;
+    color: #ffffff;
+}
+
+.price-box ul li::before {
+    content: "\f00c";
+    position: absolute;
+    left: 0;
+    top: 5px;
+    font-size: 12px;
+    font-weight: 900;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    display: block;
+    background: rgba(51, 232, 48, 0.2);
+    font-family: 'Font Awesome 5 Free';
+    text-align: center;
+    line-height: 24px;
+    color: #ffffff;
+}
+
+.price-box ul li.no-access::before {
+    content: "\f00d";
+    background: rgba(255, 0, 0, 0.2);
+}
+
+.price-btn {
+    background: #ff0000;
+    display: inline-block;
+    padding: 7px 20px;
+    color: #ffffff;
+    transform: skewX(-10deg);
+    position: relative;
+    transition: .3s;
+    margin-top: auto; /* Push the button to the bottom */
+    align-self: flex-start; /* Align button to the left */
+}
+
+.price-btn::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    width: 5px;    
+    height: 100%;
+    right: -13px;
+    background: #ff0000;
+    transition: .3s;
+}
+
+.price-box:hover .price-btn {
+    background: #ffffff;
+    color: #ff0000;
+}
+
+.price-box:hover .price-btn::before {
+    background: #ffffff;
+}
+
+.price-btn span {
+    transform: skewX(10deg);
+    display: inline-block;
+}
+
+.price-box-two .price-ab-text {
+    background: #ff0000;
+    color: #ffffff;
+}
+.about {
+    background-color: #000000; /* Dark background */
+    color: white; /* Text color */
+    padding: 40px 20px; /* Spacing around the content */
+    text-align: center; /* Center-aligns the text */
+    margin: 20px 0; /* Vertical spacing between sections */
+    border-radius: 8px; /* Rounded corners for the section */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5); /* Subtle shadow effect */
+}
+
+.about-content {
+    background-color: transparent; /* Keep the background transparent */
+    padding: 20px; /* Add some padding around the content */
+    border: 2px solid white; /* White border */
+    border-radius: 8px; /* Rounded corners for the border */
+    box-shadow: none; /* Remove shadow effect */
+}
+
+.about h2 {
+    font-size: 2.5rem; /* Main title size */
+    color: #b74b4b; /* Red color for emphasis */
+    margin-bottom: 20px; /* Space below the title */
+}
+
+.about-content h3 {
+    font-size: 2rem; /* Subtitle size */
+    margin: 20px 0; /* Space above and below subtitles */
+}
+
+.about-content p {
+    font-size: 2rem; /* Body text size */
+    margin: 10px 0 20px; /* Space around paragraphs */
+    line-height: 1.6; /* Line height for better readability */
+}
+
+.about-content h4 {
+    font-size: 2.5rem; /* Emphasized text size */
+    font-weight: bold; /* Bold text */
+    color: #b74b4b; /* Red color for emphasis */
+    margin-top: 20px; /* Space above the emphasized text */
+}
+nav a {
+    font-size: 1.1rem;
+    color: white;
+    margin-left: 2rem;
+    font-weight: 35x    0;
+    transition: 0.3s ease;
+    border-bottom: 3px solid transparent;
+}
+
+nav a:hover,
+nav a.active {
+    color: #b74b4b;
+    border-bottom: 3px solid #b74b4b;
+}
+
+@media (max-width: 800px) {
+    nav {
+        position: absolute;
+        display: none;
+        top: 0;
+        right: 0;
+        width: 40%;
+        border-left: 5px solid #b74b4b;
+        border-bottom: 5px solid #b74b4b;
+        border-bottom-left-radius: 2rem;
+        padding: 0.5rem solid;
+        background-color: #161616;
+        border-top: 0.1rem solid rgba(0, 0, 0, 0.1);
+    }
+
+    nav.active {
+        display: block;
+    }
+
+    nav a {
+        display: block;
+        font-size: 1rem;
+        margin: 3rem 0;
+    }
+
+    nav a:hover,
+    nav a.active {
+        padding: 0.5rem;
+        border-radius: 0.5rem;
+        border-bottom: 0.5rem solid #b74b4b;
+    }
+}
+header {
+    margin-top: 20px;
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 0.01rem 9%;
+    background-color: transparent;
+    filter: drop-shadow(10px);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+}
+
+.logo {
+    font-size: 1.75rem;
+    color: #b74b4b;
+    font-weight: 500;
+    cursor: pointer;
+    transition: 0.5s ease;
+}
+
+.logo:hover {
+    transform: scale(1.1);
+}

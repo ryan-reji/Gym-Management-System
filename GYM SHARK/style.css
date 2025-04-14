@@ -1,0 +1,560 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    font-family: 'Poppins', sans-serif;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    overflow-x: hidden;
+    background-color: black;
+    color: white;
+}
+
+header {
+    margin-top: 20px;
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 0.01rem 9%;
+    background-color: transparent;
+    filter: drop-shadow(10px);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+}
+
+.logo {
+    font-size: 3rem;
+    color: #b74b4b;
+    font-weight: 800;
+    cursor: pointer;
+    transition: 0.5s ease;
+}
+
+.logo:hover {
+    transform: scale(1.1);
+}
+
+nav a {
+    font-size: 1.8rem;
+    color: white;
+    margin-left: 4rem;
+    font-weight: 500;
+    transition: 0.3s ease;
+    border-bottom: 3px solid transparent;
+}
+
+nav a:hover,
+nav a.active {
+    color: #b74b4b;
+    border-bottom: 3px solid #b74b4b;
+}
+
+@media (max-width: 995px) {
+    nav {
+        position: absolute;
+        display: none;
+        top: 0;
+        right: 0;
+        width: 40%;
+        border-left: 5px solid #b74b4b;
+        border-bottom: 5px solid #b74b4b;
+        border-bottom-left-radius: 2rem;
+        padding: 1rem solid;
+        background-color: #161616;
+        border-top: 0.1rem solid rgba(0, 0, 0, 0.1);
+    }
+
+    nav.active {
+        display: block;
+    }
+
+    nav a {
+        display: block;
+        font-size: 2rem;
+        margin: 3rem 0;
+    }
+
+    nav a:hover,
+    nav a.active {
+        padding: 1rem;
+        border-radius: 0.5rem;
+        border-bottom: 0.5rem solid #b74b4b;
+    }
+}
+
+section {
+    min-height: 105vh;
+    padding: 5rem 9% 5rem;
+}
+
+.home {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8rem;
+    background-color: black;
+}
+
+.home .home-content h1 {
+    font-size: 4.5rem; /* Reduced font size */
+    font-weight: 700;
+    line-height: 1.3;
+}
+
+span {
+    color: #b74b4b;
+}
+
+.home-content h3 {
+    font-size: 3rem; /* Adjusted size to match */
+    margin-bottom: 1rem;
+    font-weight: 700;
+}
+
+.home-content p {
+    font-size: 1.4rem; /* Slightly reduced */
+}
+
+.home-img {
+    border-radius: 40%;
+}
+
+.home-img img {
+    position: relative;
+    width: 32vw;
+    border-radius: 25%;
+    box-shadow: 0 0 25px solid #b74b4b;
+    cursor: pointer;
+    transition: 0.2s linear;
+}
+
+.home-img img:hover {
+    font-size: 1.8rem;
+    font-weight: 500;
+}
+
+.social-icons a {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 4rem;
+    height: 4rem;
+    background-color: transparent;
+    border: 0.2rem solid #b74b4b;
+    font-size: 2rem;
+    border-radius: 70%;
+    margin: 3rem 1.5rem 3rem 0;
+    transition: 0.3s ease;
+    color: #b74b4b;
+}
+
+.social-icons a:hover {
+    color: black;
+    transform: scale(1.3) translateY(-5px);
+    background-color: #b74b4b;
+    box-shadow: 0 0 25px #b74b4b;
+}
+
+.btn {
+    display: inline-block;
+    padding: 1rem 2.8rem;
+    background-color: black;
+    border-radius: 4rem;
+    font-size: 1.6rem;
+    color: #b74b4b;
+    letter-spacing: 0.3rem;
+    font-weight: 600;
+    border: 2px solid #b74b4b;
+    transition: 0.3s ease;
+    cursor: pointer;
+}
+
+.btn:hover {
+    transform: scale3d(1.03);
+    background-color: #b74b4b;
+    color: black;
+    box-shadow: 0 0 25px #b74b4b;
+}
+
+.typing-text {
+    font-size: 2.5rem; /* Adjusted size */
+    font-weight: 600;
+    min-width: 280px;
+}
+
+.typing-text span {
+    position: relative;
+}
+
+.typing-text span::before {
+    content: "fitness trainers";
+    color: #b74b4b;
+    animation: words 20s infinite;
+}
+
+.typing-text span::after {
+    content: "";
+    background-color: black;
+    position: absolute;
+    width: calc(100% + 8px);
+    height: 100%;
+    border-left: 3px solid black;
+    right: -8;
+    animation: cursor 0.6s infinite;
+}
+
+@keyframes cursor {
+    to {
+        border-left: 3px solid #b74b4b;
+    }
+}
+
+@keyframes words {
+    0%, 20% {
+        content: "certified training";
+    }
+    21%, 40% {
+        content: "personal training";
+    }
+    41%, 60% {
+        content: "nutritional coaching";
+    }
+    61%, 80% {
+        content: "strength coaching";
+    }
+    81%, 100% {
+        content: "wellness programs";
+    }
+}
+
+@media (max-width: 1000px) {
+    .home {
+        gap: 4rem;
+    }
+}
+
+@media (max-width: 995px) {
+    .home {
+        flex-direction: column;
+        margin: 5rem 4rem;
+    }
+
+    .home .home-content h3 {
+        font-size: 2.5rem;
+    }
+
+    .home-content h1 {
+        font-size: 4rem; /* Adjusted for mobile */
+    }
+
+    .home-img img {
+        width: 70vw;
+        margin-top: 4rem;
+    }
+}
+.video-container {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+  }
+  
+  video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+/* New CSS for Trainer Section */
+.trainers {
+    padding: 5rem 9%;
+    background-color: #161616;
+    text-align: center;
+}
+
+.trainers h2 {
+    font-size: 3rem;
+    margin-bottom: 3rem;
+    color: #b74b4b;
+}
+
+.trainer-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+}
+
+.trainer-card {
+    background-color: #222;
+    border-radius: 10px;
+    padding: 2rem;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+    transition: transform 0.3s;
+}
+
+.trainer-card:hover {
+    transform: scale(1.05);
+}
+
+.trainer-card img {
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+}
+
+.trainer-card h3 {
+    font-size: 2.5rem; /* Increased font size */
+    margin-bottom: 0.5rem;
+}
+
+.trainer-card p {
+    font-size: 1.2rem; /* Increased font size */
+    margin: 0.5rem 0;
+}
+
+/* Modal Styles */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 100; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgba(0, 0, 0, 0.8); /* Black w/ opacity */
+}
+
+.modal-content {
+    background-color: #222;
+    margin: 15% auto; /* 15% from the top and centered */
+    padding: 20px;
+    border: 2px solid #b74b4b;
+    width: 50%; /* Could be more or less, depending on screen size */
+    color: white;
+    border-radius: 10px;
+}
+
+.close {
+    color: #b74b4b;
+    float: right;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* Modal Input Styles */
+.modal-content label {
+    font-size: 1.9rem; /* Adjusted font size for label */
+}
+.trainer-detail {
+    font-size: 1.5rem; /* Increase the font size as needed */
+    line-height: 1.9; /* Optional: increase line spacing for better readability */
+}
+
+input[type="date"] {
+    padding: 8px;
+    margin-top: 10px; /* Space below the date input */
+    border: none;
+    border-radius: 30px;
+    width: 100%;
+    font-size: 1.4rem; /* Smaller font size for date input */
+}
+#availabilityDate {
+    width: 30%;
+}
+/* New CSS for spacing */
+#checkAvailabilityBtn {
+    margin-top: 20px; /* Adjust this value as needed */
+    margin-left: 40PX;
+    font-size: 1.3rem; /* Smaller font size for button */
+}
+.video-container {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+}
+
+video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1; /* Send video to the background */
+}
+
+.overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+    background: rgba(0, 0, 0, 0.5); /* Optional semi-transparent background */
+    padding: 2rem 5rem; /* Increased horizontal padding for more space */
+    border-radius: 10px;
+    white-space: nowrap; /* Prevent the text from wrapping */
+    width: auto; /* Allow the overlay to expand horizontally */
+    min-width: 60%; /* Ensure the overlay doesn't shrink */
+}
+
+.overlay h1 {
+    font-size: 5rem; /* Increased font size */
+    font-weight: 900; /* Bold text */
+    color: #b74b4b;
+    margin-bottom: 1.5rem;
+    text-shadow: 3px 5px 8px rgba(0, 0, 0, 0.7); /* Optional shadow for more emphasis */
+    
+}
+
+.overlay h3 {
+    font-size: 2.5rem;
+    font-weight: 500;
+    margin-bottom: 1rem;
+}
+
+.overlay p {
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.overlay .btn {
+    display: inline-block;
+    padding: 1rem 2rem;
+    font-size: 1.6rem;
+    font-weight: 600;
+    background-color: #b74b4b;
+    color: white;
+    border-radius: 30px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.overlay .btn:hover {
+    background-color: white;
+    color: #b74b4b;
+    transform: scale(1.1);
+}
+
+
+/* Styles for the Standard Classes Section */
+.classes-section {
+    padding: 5rem 9%;
+    background-color: #161616;
+    text-align: center;
+    color: white;
+}
+
+.classes-section h2 {
+    font-size: 3rem;
+    margin-bottom: 2rem;
+    color: #b74b4b;
+}
+
+/* Classes Slider */
+.classes-slider {
+    display: flex;
+    overflow-x: auto;  /* Enables horizontal scroll */
+    gap: 2rem;
+    padding-bottom: 1rem;
+    scroll-behavior: smooth;
+}
+
+.class-card {
+    background-color: #222;
+    border-radius: 10px;
+    padding: 2rem;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    flex-shrink: 0;  /* Prevents cards from shrinking */
+    max-width: 350px;
+    transition: transform 0.3s;
+}
+
+.class-card:hover {
+    transform: scale(1.05);
+}
+
+.class-card img {
+    width: 100%;
+    height: 200px;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+}
+
+.class-card h3 {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+    color: #b74b4b;
+}
+
+.class-card p {
+    font-size: 1.2rem;
+    margin: 0.5rem 0;
+}
+
+.class-card .btn {
+    display: inline-block;
+    padding: 1rem 2.8rem;
+    background-color: black;
+    border-radius: 4rem;
+    font-size: 1.6rem;
+    color: #b74b4b;
+    letter-spacing: 0.3rem;
+    font-weight: 600;
+    border: 2px solid #b74b4b;
+    transition: 0.3s ease;
+    cursor: pointer;
+    margin-top: 1rem;
+}
+
+.class-card .btn:hover {
+    transform: scale3d(1.03);
+    background-color: #b74b4b;
+    color: black;
+    box-shadow: 0 0 25px #b74b4b;
+}
+
+/* Add scrollbar styles if needed */
+.classes-slider::-webkit-scrollbar {
+    height: 8px;
+}
+
+.classes-slider::-webkit-scrollbar-thumb {
+    background-color: #b74b4b;
+    border-radius: 10px;
+}
+
+.classes-slider::-webkit-scrollbar-track {
+    background-color: #333;
+}
+
+@media (max-width: 995px) {
+    .classes-slider {
+        gap: 1rem;
+    }
+}
+

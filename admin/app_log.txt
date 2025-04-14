@@ -1,0 +1,12 @@
+[2025-03-29 06:29:14][info] Form submission received
+[2025-03-29 06:29:14][error] Registration error: Failed to prepare trainer insert query: Unknown column 'phone' in 'field list'
+[2025-03-29 06:31:51][info] Form submission received
+[2025-03-29 06:31:51][error] Registration error: Failed to prepare trainer insert query: Unknown column 'dob' in 'field list'
+[2025-03-29 06:33:53][info] Form submission received
+[2025-03-29 06:33:54][error] Registration error: Failed to prepare trainer insert query: Unknown column 'dob' in 'field list'
+[2025-03-29 06:43:54][info] Form submission received
+[2025-03-29 06:43:54][info] Trainer inserted with ID: 2
+[2025-03-31 09:50:33][info] Form submission received
+[2025-03-31 09:50:33][info] Trainer inserted with ID: 3
+[2025-03-31 09:54:19][info] Form submission received
+[2025-03-31 09:54:19][info] Trainer inserted with ID: 4

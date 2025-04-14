@@ -1,0 +1,162 @@
+[2025-03-29 05:48:02] Form submitted with data: Array
+(
+    [first_name] => John 
+    [last_name] => Cena
+    [trainer_username] => johncena123
+    [email] => ryanrejir@gmail.com
+    [phone] => 8787878787
+    [dob] => 1995-06-19
+    [specialization] => strength
+    [experience] => 5
+    [hourly_rate] => 350
+    [availability_type] => custom
+    [days] => Array
+        (
+            [0] => monday
+            [1] => tuesday
+        )
+
+    [monday_start] => 06:00
+    [monday_end] => 14:00
+    [tuesday_start] => 06:00
+    [tuesday_end] => 14:00
+    [wednesday_start] => 
+    [wednesday_end] => 
+    [thursday_start] => 
+    [thursday_end] => 
+    [friday_start] => 
+    [friday_end] => 
+    [saturday_start] => 
+    [saturday_end] => 
+    [sunday_start] => 
+    [sunday_end] => 
+    [blood_type] => A-
+    [camera_capture] => 
+    [address] => asdadaskmd
+    [submit] => 
+)
+
+[2025-03-29 05:48:02] trainer_id is not set in the submitted form
+[2025-03-29 05:48:02] Critical error in main process: Error preparing query: Unknown column 'first_name' in 'field list'
+Stack trace: #0 {main}
+[2025-03-29 05:58:07] Form submitted with data: Array
+(
+    [first_name] => John 
+    [last_name] => Cena
+    [trainer_username] => johncena123
+    [email] => ryanrejir@gmail.com
+    [phone] => 8765656565
+    [dob] => 1998-03-23
+    [specialization] => cardio
+    [experience] => 5
+    [hourly_rate] => 350
+    [availability_type] => custom
+    [days] => Array
+        (
+            [0] => monday
+            [1] => sunday
+        )
+
+    [monday_start] => 06:00
+    [monday_end] => 14:00
+    [tuesday_start] => 
+    [tuesday_end] => 
+    [wednesday_start] => 
+    [wednesday_end] => 
+    [thursday_start] => 
+    [thursday_end] => 
+    [friday_start] => 
+    [friday_end] => 
+    [saturday_start] => 
+    [saturday_end] => 
+    [sunday_start] => 06:00
+    [sunday_end] => 14:00
+    [blood_type] => A-
+    [camera_capture] => 
+    [address] => sdflknjsdpfjadipf
+    [submit] => 
+)
+
+[2025-03-29 05:58:07] trainer_id is not set in the submitted form
+[2025-03-29 05:58:07] Critical error in main process: Error preparing query: Unknown column 'first_name' in 'field list'
+Stack trace: #0 {main}
+[2025-03-29 06:02:50] Form submitted with data: Array
+(
+    [FirstName] => John
+    [LastName] => Cena
+    [trainer_username] => johncena123
+    [email] => ryanrejir@gmail.com
+    [phone] => 8778877887
+    [dob] => 1995-10-17
+    [specialization] => strength
+    [experience] => 5
+    [hourly_rate] => 350
+    [availability_type] => custom
+    [days] => Array
+        (
+            [0] => monday
+            [1] => tuesday
+        )
+
+    [monday_start] => 06:00
+    [monday_end] => 14:00
+    [tuesday_start] => 06:00
+    [tuesday_end] => 14:00
+    [wednesday_start] => 
+    [wednesday_end] => 
+    [thursday_start] => 
+    [thursday_end] => 
+    [friday_start] => 
+    [friday_end] => 
+    [saturday_start] => 
+    [saturday_end] => 
+    [sunday_start] => 
+    [sunday_end] => 
+    [blood_type] => A+
+    [camera_capture] => 
+    [address] => sdlkfmsd;kfmd;
+    [submit] => 
+)
+
+[2025-03-29 06:02:50] trainer_id is not set in the submitted form
+[2025-03-29 06:02:50] Critical error in main process: Error preparing query: Unknown column 'phone' in 'field list'
+Stack trace: #0 {main}
+[2025-03-29 06:16:10] Form submitted with data: Array
+(
+    [FirstName] => John
+    [LastName] => Cena
+    [trainer_username] => johncena123
+    [email] => ryanrejir@gmail.com
+    [phone] => 8789890989
+    [dob] => 1998-03-23
+    [specialization] => nutrition
+    [experience] => 5
+    [hourly_rate] => 350
+    [availability_type] => custom
+    [days] => Array
+        (
+            [0] => monday
+            [1] => sunday
+        )
+
+    [monday_start] => 06:00
+    [monday_end] => 14:00
+    [tuesday_start] => 
+    [tuesday_end] => 
+    [wednesday_start] => 
+    [wednesday_end] => 
+    [thursday_start] => 
+    [thursday_end] => 
+    [friday_start] => 
+    [friday_end] => 
+    [saturday_start] => 
+    [saturday_end] => 
+    [sunday_start] => 06:00
+    [sunday_end] => 14:00
+    [blood_type] => A-
+    [camera_capture] => 
+    [address] => weolifhoqeligf
+    [submit] => 
+)
+
+[2025-03-29 06:16:10] Critical error: Error preparing query: Unknown column 'phone' in 'field list'

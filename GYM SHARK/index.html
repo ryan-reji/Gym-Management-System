@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+    <title>Gym Trainer Portfolio</title>
+</head>
+
+<body>
+    <header>
+        <a href="#" class="logo"><strong>GYM  SHARK</strong></a>
+
+        <nav>
+            <a href="./home.html" >HOME</a>
+            <a href="./index.html" class="active">TRAINERS</a>
+            <a href="../plan_section/">PLANS</a>
+            <a href="./fitai/index.html">FITAI</a>
+            <a href="./faq.html">FAQ</a>
+            <a href="./about.html">ABOUT</a>
+            <a href="../Login/index.php">LOGIN</a>
+          </nav>
+        
+    </header>
+
+    <section class="home">
+        <div class="home-img">
+            <img src="mainn.jpg" alt="Gym Trainer">
+        </div>
+        <div class="home-content">
+            <h1>Hi, We are <span>Fitness Trainers</span></h1>
+            <h3 class="typing-text">Specialised in <span></span></h3>
+            <p>Helping you achieve your fitness goals with personalized plans.</p>
+            <div class="social-icons">
+                <a href="https://www.linkedin.com/in/divine-marshal-a61268350/" target="_blank" title="LinkedIn">
+                    <i class="fa-brands fa-linkedin"></i>
+                </a>
+                <a href="https://github.com/TechScribeee" target="_blank" title="GitHub">
+                    <i class="fa-brands fa-github"></i>
+                </a>
+                <a href="https://x.com/DivineM97353" target="_blank" title="X">
+                    <i class="fa-brands fa-x-twitter"></i>
+                </a>
+                <a href="https://www.instagram.com/divine_marshal_x/?hl=en" target="_blank" title="Instagram">
+                    <i class="fa-brands fa-instagram"></i>
+                </a>
+            </div>
+            <a href="../Login/index.php" class="btn">Join Us</a>
+        </div>
+    </section>
+
+    <section class="trainers">
+        <h2>Meet Our Trainers</h2>
+        <div class="trainer-grid">
+            <div class="trainer-card">
+                <img src="trainer1.jpg" alt="Trainer 1">
+                <h3>John Doe</h3>
+                <p>Specialization: Strength Training</p>
+                <p>Experience: 5 years</p>
+                <button class="btn" onclick="showTrainerDetails('John Doe', 'john@gmail.com', '123-456-7890', 'GYM001', {
+                    linkedin: 'https://www.linkedin.com/in/divine-marshal-a61268350/',
+                   
+                    instagram: 'https://www.instagram.com/gym_boy526/?hl=en'})">Contact</button>
+            </div>
+            <div class="trainer-card">
+                <img src="trainer2.jpg" alt="Trainer 2">
+                <h3>Jane Smith</h3>
+                <p>Specialization: Nutrition</p>
+                <p>Experience: 3 years</p>
+                <button class="btn" onclick="showTrainerDetails('Jane Smith', 'jane@gmail.com', '234-567-8901', 'GYM002', {
+                     linkedin: 'https://www.linkedin.com/in/divine-marshal-a61268350/',
+                   
+                   instagram: 'https://www.instagram.com/janesmithpersonaltrainer/?hl=en'})">Contact</button>
+            </div>
+            <div class="trainer-card">
+                <img src="trainer3.jpg" alt="Trainer 3">
+                <h3>Alex Johnson</h3>
+                <p>Specialization: Cardio Training</p>
+                <p>Experience: 4 years</p>
+                <button class="btn" onclick="showTrainerDetails('Alex Johnson', 'alex@gmail.com', '345-678-9012', 'GYM003', {
+                    linkedin: 'https://www.linkedin.com/in/divine-marshal-a61268350/',
+                  
+                  instagram: 'https://www.instagram.com/_alex_jhonson_/?hl=en'})">Contact</button>
+            </div>
+            <div class="trainer-card">
+                <img src="trainer4.jpg" alt="Trainer 4">
+                <h3>Emily Davis</h3>
+                <p>Specialization: Yoga</p>
+                <p>Experience: 6 years</p>
+                <button class="btn" onclick="showTrainerDetails('Emily Davis', 'emily@gmail.com', '456-789-0123', 'GYM004',  {
+                    linkedin: 'https://www.linkedin.com/in/divine-marshal-a61268350/',
+                  
+                  instagram: 'https://www.instagram.com/emilydavis.fitness/?hl=en'})">Contact</button>
+            </div>
+            <div class="trainer-card">
+                <img src="trainer5.jpg" alt="Trainer 5">
+                <h3>Michael Brown</h3>
+                <p>Specialization: Crossfit</p>
+                <p>Experience: 7 years</p>
+                <button class="btn" onclick="showTrainerDetails('Michael Brown', 'michael@gmail.com', '567-890-1234', 'GYM005',  {
+                    linkedin: 'https://www.linkedin.com/in/divine-marshal-a61268350/',
+                  
+                  instagram: 'https://www.instagram.com/decafitnesssytems/?hl=en'})">Contact</button>
+            </div>
+            <div class="trainer-card">
+                <img src="trainer6.jpg" alt="Trainer 6">
+                <h3>Sarah Wilson</h3>
+                <p>Specialization: HIT Training</p>
+                <p>Experience: 5 years</p>
+                <button class="btn" onclick="showTrainerDetails('Sarah Wilson', 'sarah@example.com', '678-901-2345', 'GYM006',  {
+                    linkedin: 'https://www.linkedin.com/in/divine-marshal-a61268350/',
+                  
+                  instagram: 'https://www.instagram.com/sarahwilson_fitness/?hl=en'})">Contact</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Modal -->
+<div id="trainerModal" class="modal">
+    <div class="modal-content">
+        <span class="close" onclick="closeModal()">&times;</span>
+        <h3 style="color: #eba7a7; font-size: 2.0rem;">Trainer Details:</h3>
+        <p class="trainer-detail"><strong>Name:</strong> <span id="trainerName"></span></p>
+        <p class="trainer-detail"><strong>Email:</strong> <span id="trainerEmail"></span></p>
+        <p class="trainer-detail"><strong>Phone:</strong> <span id="trainerPhone"></span></p>
+        <p class="trainer-detail"><strong>Gym ID:</strong> <span id="trainerId"></span></p>
+        
+        <h3 style="color: #eba7a7; font-size: 2.0rem;">Find Me On:</h3>
+        <div id="socialLinks" class="social-icons"></div>
+    </div>
+</div>
+
+
+    <script src="script.js"></script>
+</body>
+</html>

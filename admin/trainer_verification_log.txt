@@ -1,0 +1,1572 @@
+[2025-03-09 06:27:04] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 06:27:04] Verifying trainer ID: 62345
+[2025-03-09 06:27:04] Extracted ID: 62345
+[2025-03-09 06:27:04] Found trainer: Samuel Dsouza
+[2025-03-09 06:27:04] Trainer verified successfully: 62345
+[2025-03-09 06:27:04] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 06:27:04] Verifying trainer ID: 62345
+[2025-03-09 06:27:04] Found trainer: Samuel Dsouza
+[2025-03-09 06:27:04] Trainer verified successfully: 62345
+[2025-03-09 06:27:04] Found trainer: Samuel Dsouza
+[2025-03-09 06:27:04] Trainer verified successfully: 62345
+[2025-03-09 06:27:04] Verifying trainer ID: 62345
+K-TRAINER-62345
+[2025-03-09 06:27:04] Found trainer: Samuel Dsouza
+[2025-03-09 06:27:04] Extracted ID: 62345
+essfully: 62345
+[2025-03-09 06:27:04] Found trainer: Samuel Dsouza
+[2025-03-09 06:27:04] Trainer verified successfully: 62345
+[2025-03-09 06:28:14] Verifying trainer ID: 62345
+[2025-03-09 06:28:14] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 06:28:14] Extracted ID: 62345
+[2025-03-09 06:28:14] Found trainer: Samuel Dsouza
+[2025-03-09 06:28:14] Trainer already checked in: 62345
+[2025-03-09 06:28:14] Found trainer: Samuel Dsouza
+[2025-03-09 06:28:14] Trainer already checked in: 62345
+[2025-03-09 06:28:14] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 06:28:14] Extracted ID: 62345
+[2025-03-09 06:28:14] Verifying trainer ID: 62345
+[2025-03-09 06:28:14] Found trainer: Samuel Dsouza
+[2025-03-09 06:28:14] Trainer already checked in: 62345
+[2025-03-09 06:28:14] Trainer already checked in: 62345
+[2025-03-09 06:28:14] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 06:28:14] Extracted ID: 62345
+[2025-03-09 06:28:14] Verifying trainer ID: 62345
+[2025-03-09 06:28:14] Found trainer: Samuel Dsouza
+[2025-03-09 06:28:14] Trainer already checked in: 62345
+[2025-03-09 06:28:14] Found trainer: Samuel Dsouza
+[2025-03-09 06:28:14] Trainer already checked in: 62345
+[2025-03-09 06:28:14] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 06:28:14] Extracted ID: 62345
+[2025-03-09 06:28:14] Verifying trainer ID: 62345
+[2025-03-09 06:28:14] Found trainer: Samuel Dsouza
+[2025-03-09 06:28:14] Trainer already checked in: 62345
+[2025-03-09 06:28:14] Found trainer: Samuel Dsouza
+[2025-03-09 06:28:14] Trainer already checked in: 62345
+[2025-03-09 06:57:11] Verifying trainer ID: 62345
+K-TRAINER-62345
+[2025-03-09 06:57:11] Extracted ID: 62345
+[2025-03-09 06:57:11] Found trainer: Samuel Dsouza
+[2025-03-09 06:57:11] Trainer already checked in: 62345
+[2025-03-09 06:57:11] Found trainer: Samuel Dsouza
+[2025-03-09 06:57:11] Trainer already checked in: 62345
+[2025-03-09 06:57:11] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 06:57:11] Extracted ID: 62345
+[2025-03-09 06:57:11] Found trainer: Samuel Dsouza
+[2025-03-09 06:57:11] Verifying trainer ID: 62345
+[2025-03-09 06:57:11] Trainer already checked in: 62345
+[2025-03-09 06:57:11] Found trainer: Samuel Dsouza
+[2025-03-09 06:57:11] Trainer already checked in: 62345
+[2025-03-09 06:57:11] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 06:57:11] Extracted ID: 62345
+[2025-03-09 06:57:11] Found trainer: Samuel Dsouza
+[2025-03-09 06:57:11] Trainer already checked in: 62345
+[2025-03-09 06:57:11] Verifying trainer ID: 62345
+[2025-03-09 06:57:11] Found trainer: Samuel Dsouza
+[2025-03-09 06:57:11] Trainer already checked in: 62345
+[2025-03-09 06:57:11] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 06:57:11] Extracted ID: 62345
+[2025-03-09 06:57:11] Found trainer: Samuel Dsouza
+[2025-03-09 06:57:11] Verifying trainer ID: 62345
+[2025-03-09 06:57:11] Trainer already checked in: 62345
+[2025-03-09 06:57:11] Found trainer: Samuel Dsouza
+[2025-03-09 06:57:11] Trainer already checked in: 62345
+[2025-03-09 07:40:17] Verifying trainer ID: GYMSHARK-MEMBER-6942
+[2025-03-09 07:40:17] Trainer not found: GYMSHARK-MEMBER-6942
+[2025-03-09 07:40:17] Verifying trainer ID: GYMSHARK-MEMBER-6942
+[2025-03-09 07:40:17] Trainer not found: GYMSHARK-MEMBER-6942
+[2025-03-09 11:19:43] Verifying trainer ID: GYMSHARK-MEMBER-6942
+[2025-03-09 11:19:43] Trainer not found: GYMSHARK-MEMBER-6942
+[2025-03-09 11:19:43] Verifying trainer ID: GYMSHARK-MEMBER-6942
+[2025-03-09 11:19:43] Trainer not found: GYMSHARK-MEMBER-6942
+[2025-03-09 11:19:44] Verifying trainer ID: GYMSHARK-MEMBER-6942
+[2025-03-09 11:19:44] Trainer not found: GYMSHARK-MEMBER-6942
+[2025-03-09 11:19:44] Verifying trainer ID: GYMSHARK-MEMBER-6942
+[2025-03-09 11:19:44] Trainer not found: GYMSHARK-MEMBER-6942
+[2025-03-09 11:19:44] Verifying trainer ID: GYMSHARK-MEMBER-6942
+[2025-03-09 11:19:44] Trainer not found: GYMSHARK-MEMBER-6942
+[2025-03-09 11:19:44] Verifying trainer ID: GYMSHARK-MEMBER-6942
+[2025-03-09 11:19:44] Trainer not found: GYMSHARK-MEMBER-6942
+[2025-03-09 11:19:44] Verifying trainer ID: GYMSHARK-MEMBER-6942
+[2025-03-09 11:19:44] Trainer not found: GYMSHARK-MEMBER-6942
+[2025-03-09 11:19:44] Verifying trainer ID: GYMSHARK-MEMBER-6942
+[2025-03-09 11:19:44] Trainer not found: GYMSHARK-MEMBER-6942
+[2025-03-09 11:19:44] Verifying trainer ID: GYMSHARK-MEMBER-6942
+[2025-03-09 11:19:44] Trainer not found: GYMSHARK-MEMBER-6942
+[2025-03-09 11:19:44] Verifying trainer ID: GYMSHARK-MEMBER-6942
+[2025-03-09 11:19:44] Trainer not found: GYMSHARK-MEMBER-6942
+[2025-03-09 11:19:44] Verifying trainer ID: GYMSHARK-MEMBER-6942
+[2025-03-09 11:19:44] Trainer not found: GYMSHARK-MEMBER-6942
+[2025-03-09 11:19:44] Verifying trainer ID: GYMSHARK-MEMBER-6942
+[2025-03-09 11:19:44] Trainer not found: GYMSHARK-MEMBER-6942
+[2025-03-09 18:24:52] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:24:52] Extracted ID: 62345
+[2025-03-09 18:24:52] Verifying trainer ID: 62345
+[2025-03-09 18:24:52] Found trainer: Samuel Dsouza
+[2025-03-09 18:24:52] Found trainer: Samuel Dsouza
+[2025-03-09 18:24:52] Trainer verified successfully: 62345
+[2025-03-09 18:24:52] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:24:52] Extracted ID: 62345
+[2025-03-09 18:24:52] Verifying trainer ID: 62345
+[2025-03-09 18:24:52] Found trainer: Samuel Dsouza
+[2025-03-09 18:24:52] Found trainer: Samuel Dsouza
+[2025-03-09 18:24:52] Trainer verified successfully: 62345
+[2025-03-09 18:24:52] Trainer verified successfully: 62345
+[2025-03-09 18:24:52] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:24:52] Extracted ID: 62345
+ 62345
+[2025-03-09 18:24:52] Found trainer: Samuel Dsouza
+[2025-03-09 18:24:52] Trainer verified successfully: 62345
+[2025-03-09 18:24:52] Trainer verified successfully: 62345
+[2025-03-09 18:24:52] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:24:52] Extracted ID: 62345
+[2025-03-09 18:24:52] Verifying trainer ID: 62345
+[2025-03-09 18:24:52] Found trainer: Samuel Dsouza
+[2025-03-09 18:24:52] Found trainer: Samuel Dsouza
+[2025-03-09 18:24:52] Trainer verified successfully: 62345
+[2025-03-09 18:24:52] Trainer verified successfully: 62345
+[2025-03-09 18:24:52] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:24:52] Extracted ID: 62345
+[2025-03-09 18:24:52] Found trainer: Samuel Dsouza
+[2025-03-09 18:24:52] Verifying trainer ID: 62345
+[2025-03-09 18:24:52] Trainer verified successfully: 62345
+[2025-03-09 18:24:52] Found trainer: Samuel Dsouza
+[2025-03-09 18:24:52] Trainer verified successfully: 62345
+[2025-03-09 18:24:52] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:24:52] Extracted ID: 62345
+[2025-03-09 18:24:52] Verifying trainer ID: 62345
+[2025-03-09 18:24:52] Found trainer: Samuel Dsouza
+[2025-03-09 18:24:52] Trainer verified successfully: 62345
+[2025-03-09 18:24:52] Found trainer: Samuel Dsouza
+[2025-03-09 18:24:52] Trainer verified successfully: 62345
+[2025-03-09 18:24:52] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:24:52] Extracted ID: 62345
+[2025-03-09 18:24:52] Verifying trainer ID: 62345
+[2025-03-09 18:24:52] Found trainer: Samuel Dsouza
+[2025-03-09 18:24:52] Found trainer: Samuel Dsouza
+[2025-03-09 18:24:52] Trainer verified successfully: 62345
+[2025-03-09 18:24:52] Trainer verified successfully: 62345
+[2025-03-09 18:24:53] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:24:53] Extracted ID: 62345
+[2025-03-09 18:24:53] Found trainer: Samuel Dsouza
+[2025-03-09 18:24:53] Trainer verified successfully: 62345
+-09 18:24:53] Trainer verified successfully: 62345
+[2025-03-09 18:24:53] Verifying trainer ID: 62345
+[2025-03-09 18:24:53] Found trainer: Samuel Dsouza
+[2025-03-09 18:24:53] Trainer verified successfully: 62345
+[2025-03-09 18:24:53] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:24:53] Extracted ID: 62345
+[2025-03-09 18:24:53] Found trainer: Samuel Dsouza
+[2025-03-09 18:24:53] Trainer verified successfully: 62345
+[2025-03-09 18:24:53] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:24:53] Extracted ID: 62345
+ 62345
+[2025-03-09 18:24:53] Found trainer: Samuel Dsouza
+[2025-03-09 18:24:53] Trainer verified successfully: 62345
+[2025-03-09 18:24:53] Found trainer: Samuel Dsouza
+[2025-03-09 18:24:53] Trainer verified successfully: 62345
+[2025-03-09 18:24:53] Verifying trainer ID: 62345
+[2025-03-09 18:24:53] Found trainer: Samuel Dsouza
+[2025-03-09 18:24:53] Trainer verified successfully: 62345
+[2025-03-09 18:24:53] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:24:53] Extracted ID: 62345
+[2025-03-09 18:24:53] Found trainer: Samuel Dsouza
+[2025-03-09 18:24:53] Trainer verified successfully: 62345
+[2025-03-09 18:25:07] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:25:07] Verifying trainer ID: 62345
+[2025-03-09 18:25:07] Extracted ID: 62345
+[2025-03-09 18:25:07] Found trainer: Samuel Dsouza
+[2025-03-09 18:25:07] Found trainer: Samuel Dsouza
+[2025-03-09 18:25:07] Trainer already checked in: 62345
+[2025-03-09 18:25:07] Trainer already checked in: 62345
+[2025-03-09 18:25:08] Verifying trainer ID: 62345
+[2025-03-09 18:25:08] Found trainer: Samuel Dsouza
+[2025-03-09 18:25:08] Trainer already checked in: 62345
+[2025-03-09 18:25:08] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:25:08] Extracted ID: 62345
+[2025-03-09 18:25:08] Found trainer: Samuel Dsouza
+[2025-03-09 18:25:08] Trainer already checked in: 62345
+[2025-03-09 18:25:08] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:25:08] Extracted ID: 62345
+[2025-03-09 18:25:08] Found trainer: Samuel Dsouza
+[2025-03-09 18:25:08] Trainer already checked in: 62345
+[2025-03-09 18:25:08] Verifying trainer ID: 62345
+[2025-03-09 18:25:08] Found trainer: Samuel Dsouza
+[2025-03-09 18:25:08] Trainer already checked in: 62345
+[2025-03-09 18:25:08] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:25:08] Verifying trainer ID: 62345
+[2025-03-09 18:25:08] Extracted ID: 62345
+[2025-03-09 18:25:08] Found trainer: Samuel Dsouza
+[2025-03-09 18:25:08] Found trainer: Samuel Dsouza
+[2025-03-09 18:25:08] Trainer already checked in: 62345
+[2025-03-09 18:25:08] Trainer already checked in: 62345
+[2025-03-09 18:25:08] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:25:08] Extracted ID: 62345
+[2025-03-09 18:25:08] Found trainer: Samuel Dsouza
+[2025-03-09 18:25:08] Trainer already checked in: 62345
+[2025-03-09 18:25:08] Verifying trainer ID: 62345
+[2025-03-09 18:25:08] Found trainer: Samuel Dsouza
+[2025-03-09 18:25:08] Trainer already checked in: 62345
+[2025-03-09 18:25:08] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:25:08] Extracted ID: 62345
+ 62345
+[2025-03-09 18:25:08] Found trainer: Samuel Dsouza
+[2025-03-09 18:25:08] Trainer already checked in: 62345
+[2025-03-09 18:25:08] Found trainer: Samuel Dsouza
+[2025-03-09 18:25:08] Trainer already checked in: 62345
+[2025-03-09 18:25:08] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:25:08] Verifying trainer ID: 62345
+[2025-03-09 18:25:08] Extracted ID: 62345
+[2025-03-09 18:25:08] Found trainer: Samuel Dsouza
+[2025-03-09 18:25:08] Trainer already checked in: 62345
+[2025-03-09 18:25:08] Trainer already checked in: 62345
+[2025-03-09 18:25:09] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:25:09] Extracted ID: 62345
+[2025-03-09 18:25:09] Found trainer: Samuel Dsouza
+[2025-03-09 18:25:09] Verifying trainer ID: 62345
+[2025-03-09 18:25:09] Trainer already checked in: 62345
+[2025-03-09 18:25:09] Found trainer: Samuel Dsouza
+[2025-03-09 18:25:09] Trainer already checked in: 62345
+[2025-03-09 18:25:09] Verifying trainer ID: 62345
+[2025-03-09 18:25:09] Found trainer: Samuel Dsouza
+[2025-03-09 18:25:09] Trainer already checked in: 62345
+[2025-03-09 18:25:09] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:25:09] Extracted ID: 62345
+[2025-03-09 18:25:09] Found trainer: Samuel Dsouza
+[2025-03-09 18:25:09] Trainer already checked in: 62345
+[2025-03-09 18:25:09] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:25:09] Extracted ID: 62345
+[2025-03-09 18:25:09] Found trainer: Samuel Dsouza
+[2025-03-09 18:25:09] Trainer already checked in: 62345
+[2025-03-09 18:25:09] Found trainer: Samuel Dsouza
+[2025-03-09 18:25:09] Trainer already checked in: 62345
+[2025-03-09 18:25:09] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:25:09] Extracted ID: 62345
+[2025-03-09 18:25:09] Verifying trainer ID: 62345
+[2025-03-09 18:25:09] Found trainer: Samuel Dsouza
+[2025-03-09 18:25:09] Trainer already checked in: 62345
+[2025-03-09 18:25:09] Trainer already checked in: 62345
+[2025-03-09 18:25:09] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:25:09] Verifying trainer ID: 62345
+[2025-03-09 18:25:09] Extracted ID: 62345
+[2025-03-09 18:25:09] Found trainer: Samuel Dsouza
+[2025-03-09 18:25:09] Found trainer: Samuel Dsouza
+[2025-03-09 18:25:09] Trainer already checked in: 62345
+[2025-03-09 18:25:09] Trainer already checked in: 62345
+[2025-03-09 18:25:09] Verifying trainer ID: 62345
+K-TRAINER-62345
+[2025-03-09 18:25:09] Extracted ID: 62345
+[2025-03-09 18:25:09] Found trainer: Samuel Dsouza
+[2025-03-09 18:25:09] Trainer already checked in: 62345
+[2025-03-09 18:25:09] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:25:09] Extracted ID: 62345
+[2025-03-09 18:25:09] Found trainer: Samuel Dsouza
+[2025-03-09 18:25:09] Verifying trainer ID: 62345
+[2025-03-09 18:25:09] Trainer already checked in: 62345
+[2025-03-09 18:25:09] Found trainer: Samuel Dsouza
+[2025-03-09 18:25:09] Trainer already checked in: 62345
+[2025-03-09 18:25:09] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:25:09] Extracted ID: 62345
+[2025-03-09 18:25:09] Found trainer: Samuel Dsouza
+[2025-03-09 18:25:09] Trainer already checked in: 62345
+[2025-03-09 18:25:09] Verifying trainer ID: 62345
+[2025-03-09 18:25:09] Found trainer: Samuel Dsouza
+[2025-03-09 18:25:09] Trainer already checked in: 62345
+[2025-03-09 18:27:18] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:27:18] Verifying trainer ID: 62345
+[2025-03-09 18:27:18] Found trainer: Samuel Dsouza
+[2025-03-09 18:27:18] Trainer verified successfully: 62345
+[2025-03-09 18:27:18] Extracted ID: 62345
+[2025-03-09 18:27:18] Found trainer: Samuel Dsouza
+[2025-03-09 18:27:18] Trainer verified successfully: 62345
+[2025-03-09 18:27:18] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:27:18] Extracted ID: 62345
+[2025-03-09 18:27:18] Verifying trainer ID: 62345
+[2025-03-09 18:27:18] Found trainer: Samuel Dsouza
+[2025-03-09 18:27:18] Trainer verified successfully: 62345
+[2025-03-09 18:27:18] Found trainer: Samuel Dsouza
+[2025-03-09 18:27:18] Trainer verified successfully: 62345
+[2025-03-09 18:27:19] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:27:19] Extracted ID: 62345
+[2025-03-09 18:27:19] Verifying trainer ID: 62345
+[2025-03-09 18:27:19] Found trainer: Samuel Dsouza
+[2025-03-09 18:27:19] Trainer verified successfully: 62345
+[2025-03-09 18:27:19] Found trainer: Samuel Dsouza
+[2025-03-09 18:27:19] Trainer verified successfully: 62345
+[2025-03-09 18:27:28] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:27:28] Extracted ID: 62345
+[2025-03-09 18:27:28] Verifying trainer ID: 62345
+[2025-03-09 18:27:28] Found trainer: Samuel Dsouza
+[2025-03-09 18:27:28] Trainer already checked in: 62345
+[2025-03-09 18:27:28] Found trainer: Samuel Dsouza
+[2025-03-09 18:27:28] Trainer already checked in: 62345
+[2025-03-09 18:27:56] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:27:56] Extracted ID: 62345
+ 62345
+[2025-03-09 18:27:56] Found trainer: Samuel Dsouza
+[2025-03-09 18:27:56] Trainer already checked in: 62345
+[2025-03-09 18:27:56] Found trainer: Samuel Dsouza
+[2025-03-09 18:27:56] Trainer already checked in: 62345
+[2025-03-09 18:27:56] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:27:56] Extracted ID: 62345
+ 62345
+[2025-03-09 18:27:56] Found trainer: Samuel Dsouza
+[2025-03-09 18:27:56] Trainer already checked in: 62345
+[2025-03-09 18:27:56] Trainer already checked in: 62345
+[2025-03-09 18:27:56] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:27:56] Verifying trainer ID: 62345
+[2025-03-09 18:27:56] Extracted ID: 62345
+[2025-03-09 18:27:56] Found trainer: Samuel Dsouza
+[2025-03-09 18:27:56] Trainer already checked in: 62345
+[2025-03-09 18:27:56] Found trainer: Samuel Dsouza
+[2025-03-09 18:27:56] Trainer already checked in: 62345
+[2025-03-09 18:27:56] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:27:56] Verifying trainer ID: 62345
+[2025-03-09 18:27:56] Extracted ID: 62345
+[2025-03-09 18:27:56] Found trainer: Samuel Dsouza
+[2025-03-09 18:27:56] Found trainer: Samuel Dsouza
+[2025-03-09 18:27:56] Trainer already checked in: 62345
+[2025-03-09 18:27:56] Trainer already checked in: 62345
+[2025-03-09 18:27:57] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:27:57] Extracted ID: 62345
+[2025-03-09 18:27:57] Found trainer: Samuel Dsouza
+[2025-03-09 18:27:57] Trainer already checked in: 62345
+[2025-03-09 18:27:57] Verifying trainer ID: 62345
+[2025-03-09 18:27:57] Found trainer: Samuel Dsouza
+[2025-03-09 18:27:57] Trainer already checked in: 62345
+[2025-03-09 18:27:57] Verifying trainer ID: 62345
+K-TRAINER-62345
+[2025-03-09 18:27:57] Extracted ID: 62345
+[2025-03-09 18:27:57] Found trainer: Samuel Dsouza
+[2025-03-09 18:27:57] Found trainer: Samuel Dsouza
+[2025-03-09 18:27:57] Trainer already checked in: 62345
+[2025-03-09 18:27:57] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:27:57] Verifying trainer ID: 62345
+[2025-03-09 18:27:57] Found trainer: Samuel Dsouza
+[2025-03-09 18:27:57] Trainer already checked in: 62345
+[2025-03-09 18:27:57] Found trainer: Samuel Dsouza
+[2025-03-09 18:27:57] Trainer already checked in: 62345
+[2025-03-09 18:27:57] Verifying trainer ID: 62345
+[2025-03-09 18:27:57] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:27:57] Extracted ID: 62345
+[2025-03-09 18:27:57] Found trainer: Samuel Dsouza
+[2025-03-09 18:27:57] Trainer already checked in: 62345
+[2025-03-09 18:27:57] Found trainer: Samuel Dsouza
+[2025-03-09 18:27:57] Trainer already checked in: 62345
+[2025-03-09 18:27:57] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:27:57] Extracted ID: 62345
+[2025-03-09 18:27:57] Found trainer: Samuel Dsouza
+[2025-03-09 18:27:57] Found trainer: Samuel Dsouza
+[2025-03-09 18:27:57] Trainer already checked in: 62345
+[2025-03-09 18:27:57] Trainer already checked in: 62345
+[2025-03-09 18:28:42] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:28:42] Extracted ID: 62345
+[2025-03-09 18:28:42] Found trainer: Samuel Dsouza
+[2025-03-09 18:28:42] Trainer verified successfully: 62345
+[2025-03-09 18:28:42] Found trainer: Samuel Dsouza
+[2025-03-09 18:28:42] Trainer verified successfully: 62345
+[2025-03-09 18:28:42] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:28:42] Extracted ID: 62345
+ 62345
+[2025-03-09 18:28:42] Found trainer: Samuel Dsouza
+[2025-03-09 18:28:42] Found trainer: Samuel Dsouza
+[2025-03-09 18:28:42] Trainer verified successfully: 62345
+[2025-03-09 18:28:42] Trainer verified successfully: 62345
+[2025-03-09 18:29:05] Verifying trainer ID: 62345
+[2025-03-09 18:29:05] Found trainer: Samuel Dsouza
+-TRAINER-62345
+[2025-03-09 18:29:05] Extracted ID: 62345
+[2025-03-09 18:29:05] Found trainer: Samuel Dsouza
+[2025-03-09 18:29:05] Trainer already checked in: 62345
+[2025-03-09 18:29:05] Trainer already checked in: 62345
+[2025-03-09 18:29:05] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:29:05] Verifying trainer ID: 62345
+[2025-03-09 18:29:05] Found trainer: Samuel Dsouza
+[2025-03-09 18:29:05] Trainer already checked in: 62345
+[2025-03-09 18:29:05] Found trainer: Samuel Dsouza
+[2025-03-09 18:29:05] Trainer already checked in: 62345
+[2025-03-09 18:29:06] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:29:06] Extracted ID: 62345
+ 62345
+[2025-03-09 18:29:06] Found trainer: Samuel Dsouza
+[2025-03-09 18:29:06] Trainer already checked in: 62345
+[2025-03-09 18:29:06] Trainer already checked in: 62345
+[2025-03-09 18:29:06] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:29:06] Extracted ID: 62345
+[2025-03-09 18:29:06] Found trainer: Samuel Dsouza
+[2025-03-09 18:29:06] Trainer already checked in: 62345
+[2025-03-09 18:29:06] Verifying trainer ID: 62345
+[2025-03-09 18:29:06] Found trainer: Samuel Dsouza
+[2025-03-09 18:29:06] Trainer already checked in: 62345
+[2025-03-09 18:29:06] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:29:06] Verifying trainer ID: 62345
+[2025-03-09 18:29:06] Extracted ID: 62345
+[2025-03-09 18:29:06] Found trainer: Samuel Dsouza
+[2025-03-09 18:29:06] Found trainer: Samuel Dsouza
+[2025-03-09 18:29:06] Trainer already checked in: 62345
+[2025-03-09 18:29:06] Trainer already checked in: 62345
+[2025-03-09 18:29:06] Verifying trainer ID: 62345
+[2025-03-09 18:29:06] Found trainer: Samuel Dsouza
+[2025-03-09 18:29:06] Trainer already checked in: 62345
+[2025-03-09 18:29:06] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:29:06] Extracted ID: 62345
+[2025-03-09 18:29:06] Found trainer: Samuel Dsouza
+[2025-03-09 18:29:06] Trainer already checked in: 62345
+[2025-03-09 18:35:53] Verifying trainer ID: 62345
+[2025-03-09 18:35:53] Found trainer: Samuel Dsouza
+[2025-03-09 18:35:53] Trainer verified successfully: 62345
+[2025-03-09 18:35:53] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:35:53] Extracted ID: 62345
+[2025-03-09 18:35:53] Found trainer: Samuel Dsouza
+[2025-03-09 18:35:53] Trainer verified successfully: 62345
+[2025-03-09 18:35:53] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:35:53] Extracted ID: 62345
+[2025-03-09 18:35:53] Found trainer: Samuel Dsouza
+[2025-03-09 18:35:53] Verifying trainer ID: 62345
+[2025-03-09 18:35:53] Trainer verified successfully: 62345
+[2025-03-09 18:35:53] Found trainer: Samuel Dsouza
+[2025-03-09 18:35:53] Trainer verified successfully: 62345
+[2025-03-09 18:35:54] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:35:54] Verifying trainer ID: 62345
+[2025-03-09 18:35:54] Extracted ID: 62345
+[2025-03-09 18:35:54] Found trainer: Samuel Dsouza
+[2025-03-09 18:35:54] Found trainer: Samuel Dsouza
+[2025-03-09 18:35:54] Trainer verified successfully: 62345
+[2025-03-09 18:35:54] Trainer verified successfully: 62345
+[2025-03-09 18:36:35] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:36:35] Extracted ID: 62345
+[2025-03-09 18:36:35] Found trainer: Samuel Dsouza
+[2025-03-09 18:36:35] Found trainer: Samuel Dsouza
+[2025-03-09 18:36:35] Trainer already checked in: 62345
+[2025-03-09 18:36:35] Trainer already checked in: 62345
+[2025-03-09 18:36:36] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:36:36] Extracted ID: 62345
+[2025-03-09 18:36:36] Verifying trainer ID: 62345
+[2025-03-09 18:36:36] Found trainer: Samuel Dsouza
+[2025-03-09 18:36:36] Trainer already checked in: 62345
+[2025-03-09 18:36:36] Trainer already checked in: 62345
+[2025-03-09 18:36:36] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:36:36] Verifying trainer ID: 62345
+[2025-03-09 18:36:36] Found trainer: Samuel Dsouza
+[2025-03-09 18:36:36] Trainer already checked in: 62345
+[2025-03-09 18:36:36] Trainer already checked in: 62345
+[2025-03-09 18:36:36] Verifying trainer ID: 62345
+[2025-03-09 18:36:36] Found trainer: Samuel Dsouza
+[2025-03-09 18:36:36] Trainer already checked in: 62345
+[2025-03-09 18:36:36] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:36:36] Extracted ID: 62345
+[2025-03-09 18:36:36] Found trainer: Samuel Dsouza
+[2025-03-09 18:36:36] Trainer already checked in: 62345
+[2025-03-09 18:55:34] Verifying trainer ID: 62345
+[2025-03-09 18:55:34] Found trainer: Samuel Dsouza
+[2025-03-09 18:55:34] Trainer verified successfully: 62345
+[2025-03-09 18:55:34] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:55:34] Extracted ID: 62345
+[2025-03-09 18:55:34] Found trainer: Samuel Dsouza
+[2025-03-09 18:55:34] Trainer verified successfully: 62345
+[2025-03-09 18:55:54] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:55:54] Extracted ID: 62345
+[2025-03-09 18:55:54] Found trainer: Samuel Dsouza
+[2025-03-09 18:55:54] Trainer verified successfully: 62345
+[2025-03-09 18:55:54] Verifying trainer ID: 62345
+[2025-03-09 18:55:54] Found trainer: Samuel Dsouza
+[2025-03-09 18:55:54] Trainer verified successfully: 62345
+[2025-03-09 18:55:54] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:55:54] Extracted ID: 62345
+ 62345
+[2025-03-09 18:55:54] Found trainer: Samuel Dsouza
+[2025-03-09 18:55:54] Trainer verified successfully: 62345
+[2025-03-09 18:55:54] Found trainer: Samuel Dsouza
+[2025-03-09 18:55:54] Trainer verified successfully: 62345
+[2025-03-09 18:55:54] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:55:54] Extracted ID: 62345
+[2025-03-09 18:55:54] Found trainer: Samuel Dsouza
+[2025-03-09 18:55:54] Verifying trainer ID: 62345
+[2025-03-09 18:55:54] Trainer verified successfully: 62345
+[2025-03-09 18:55:54] Found trainer: Samuel Dsouza
+[2025-03-09 18:55:54] Trainer verified successfully: 62345
+[2025-03-09 18:59:32] Verifying trainer ID: 62345
+[2025-03-09 18:59:32] Found trainer: Samuel Dsouza
+[2025-03-09 18:59:32] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:59:32] Extracted ID: 62345
+[2025-03-09 18:59:32] Found trainer: Samuel Dsouza
+[2025-03-09 18:59:32] Trainer verified successfully: 62345
+[2025-03-09 18:59:32] Trainer verified successfully: 62345
+[2025-03-09 18:59:33] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:59:33] Verifying trainer ID: 62345
+[2025-03-09 18:59:33] Extracted ID: 62345
+[2025-03-09 18:59:33] Found trainer: Samuel Dsouza
+[2025-03-09 18:59:33] Found trainer: Samuel Dsouza
+[2025-03-09 18:59:33] Trainer verified successfully: 62345
+[2025-03-09 18:59:33] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:59:33] Extracted ID: 62345
+[2025-03-09 18:59:33] Verifying trainer ID: 62345
+[2025-03-09 18:59:33] Found trainer: Samuel Dsouza
+[2025-03-09 18:59:33] Trainer verified successfully: 62345
+[2025-03-09 18:59:33] Found trainer: Samuel Dsouza
+[2025-03-09 18:59:33] Trainer verified successfully: 62345
+[2025-03-09 18:59:33] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 18:59:33] Extracted ID: 62345
+[2025-03-09 18:59:33] Verifying trainer ID: 62345
+[2025-03-09 18:59:33] Found trainer: Samuel Dsouza
+[2025-03-09 18:59:33] Found trainer: Samuel Dsouza
+[2025-03-09 18:59:33] Trainer verified successfully: 62345
+[2025-03-09 18:59:33] Trainer verified successfully: 62345
+[2025-03-09 19:00:27] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 19:00:27] Verifying trainer ID: 62345
+[2025-03-09 19:00:27] Extracted ID: 62345
+[2025-03-09 19:00:27] Found trainer: Samuel Dsouza
+[2025-03-09 19:00:27] Trainer already checked in: 62345
+[2025-03-09 19:00:27] Found trainer: Samuel Dsouza
+[2025-03-09 19:00:28] Trainer already checked in: 62345
+[2025-03-09 19:00:28] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 19:00:28] Extracted ID: 62345
+[2025-03-09 19:00:28] Found trainer: Samuel Dsouza
+[2025-03-09 19:00:28] Verifying trainer ID: 62345
+[2025-03-09 19:00:28] Trainer already checked in: 62345
+[2025-03-09 19:00:28] Found trainer: Samuel Dsouza
+[2025-03-09 19:00:28] Trainer already checked in: 62345
+[2025-03-09 19:00:28] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 19:00:28] Extracted ID: 62345
+[2025-03-09 19:00:28] Verifying trainer ID: 62345
+[2025-03-09 19:00:28] Found trainer: Samuel Dsouza
+[2025-03-09 19:00:28] Found trainer: Samuel Dsouza
+[2025-03-09 19:00:28] Trainer already checked in: 62345
+[2025-03-09 19:00:28] Trainer already checked in: 62345
+[2025-03-09 19:03:28] Verifying trainer ID: 62345
+[2025-03-09 19:03:28] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 19:03:28] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:28] Trainer verified successfully: 62345
+[2025-03-09 19:03:28] Extracted ID: 62345
+[2025-03-09 19:03:28] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:28] Trainer verified successfully: 62345
+[2025-03-09 19:03:28] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 19:03:28] Extracted ID: 62345
+[2025-03-09 19:03:28] Verifying trainer ID: 62345
+[2025-03-09 19:03:28] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:28] Found trainer: Samuel Dsouza
+ 62345
+[2025-03-09 19:03:28] Trainer verified successfully: 62345
+[2025-03-09 19:03:28] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 19:03:28] Extracted ID: 62345
+[2025-03-09 19:03:28] Verifying trainer ID: 62345
+[2025-03-09 19:03:28] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:28] Trainer verified successfully: 62345
+[2025-03-09 19:03:28] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:28] Trainer verified successfully: 62345
+[2025-03-09 19:03:28] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 19:03:28] Verifying trainer ID: 62345
+[2025-03-09 19:03:28] Extracted ID: 62345
+[2025-03-09 19:03:28] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:28] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:28] Trainer verified successfully: 62345
+[2025-03-09 19:03:28] Trainer verified successfully: 62345
+[2025-03-09 19:03:37] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 19:03:37] Extracted ID: 62345
+[2025-03-09 19:03:37] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:37] Trainer already checked in: 62345
+[2025-03-09 19:03:37] Verifying trainer ID: 62345
+[2025-03-09 19:03:37] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:37] Trainer already checked in: 62345
+[2025-03-09 19:03:38] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 19:03:38] Extracted ID: 62345
+[2025-03-09 19:03:38] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:38] Verifying trainer ID: 62345
+[2025-03-09 19:03:38] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:38] Trainer already checked in: 62345
+[2025-03-09 19:03:38] Trainer already checked in: 62345
+[2025-03-09 19:03:38] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 19:03:38] Extracted ID: 62345
+ 62345
+[2025-03-09 19:03:38] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:38] Trainer already checked in: 62345
+[2025-03-09 19:03:38] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:38] Trainer already checked in: 62345
+[2025-03-09 19:03:38] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 19:03:38] Extracted ID: 62345
+[2025-03-09 19:03:38] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:38] Trainer already checked in: 62345
+[2025-03-09 19:03:38] Verifying trainer ID: 62345
+[2025-03-09 19:03:38] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:38] Trainer already checked in: 62345
+[2025-03-09 19:03:45] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 19:03:45] Extracted ID: 62345
+ 62345
+[2025-03-09 19:03:45] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:45] Trainer verified successfully: 62345
+[2025-03-09 19:03:45] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:45] Trainer verified successfully: 62345
+[2025-03-09 19:03:45] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 19:03:45] Extracted ID: 62345
+[2025-03-09 19:03:45] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:45] Trainer verified successfully: 62345
+[2025-03-09 19:03:45] Verifying trainer ID: 62345
+[2025-03-09 19:03:45] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:45] Trainer verified successfully: 62345
+[2025-03-09 19:03:45] Verifying trainer ID: 62345
+[2025-03-09 19:03:45] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:45] Trainer verified successfully: 62345
+[2025-03-09 19:03:45] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 19:03:45] Extracted ID: 62345
+[2025-03-09 19:03:45] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:45] Trainer verified successfully: 62345
+[2025-03-09 19:03:45] Verifying trainer ID: 62345
+[2025-03-09 19:03:45] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:45] Trainer verified successfully: 62345
+[2025-03-09 19:03:45] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 19:03:45] Extracted ID: 62345
+[2025-03-09 19:03:45] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:45] Trainer verified successfully: 62345
+[2025-03-09 19:03:45] Verifying trainer ID: 62345
+[2025-03-09 19:03:45] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:45] Trainer verified successfully: 62345
+[2025-03-09 19:03:45] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 19:03:45] Extracted ID: 62345
+[2025-03-09 19:03:45] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:45] Trainer verified successfully: 62345
+[2025-03-09 19:03:45] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 19:03:45] Extracted ID: 62345
+[2025-03-09 19:03:45] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:45] Verifying trainer ID: 62345
+[2025-03-09 19:03:45] Found trainer: Samuel Dsouza
+ 62345
+[2025-03-09 19:03:45] Trainer verified successfully: 62345
+[2025-03-09 19:03:46] Verifying trainer ID: 62345
+[2025-03-09 19:03:46] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:46] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 19:03:46] Extracted ID: 62345
+[2025-03-09 19:03:46] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:46] Trainer verified successfully: 62345
+[2025-03-09 19:03:46] Trainer verified successfully: 62345
+[2025-03-09 19:03:53] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 19:03:53] Extracted ID: 62345
+[2025-03-09 19:03:53] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:53] Trainer already checked in: 62345
+[2025-03-09 19:03:53] Verifying trainer ID: 62345
+[2025-03-09 19:03:53] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:53] Trainer already checked in: 62345
+[2025-03-09 19:03:53] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 19:03:53] Extracted ID: 62345
+[2025-03-09 19:03:53] Verifying trainer ID: 62345
+[2025-03-09 19:03:53] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:53] Trainer already checked in: 62345
+[2025-03-09 19:03:53] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:53] Trainer already checked in: 62345
+[2025-03-09 19:03:53] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 19:03:53] Extracted ID: 62345
+[2025-03-09 19:03:53] Verifying trainer ID: 62345
+[2025-03-09 19:03:53] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:53] Trainer already checked in: 62345
+[2025-03-09 19:03:53] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:53] Trainer already checked in: 62345
+[2025-03-09 19:03:53] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 19:03:53] Extracted ID: 62345
+[2025-03-09 19:03:53] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:53] Verifying trainer ID: 62345
+[2025-03-09 19:03:53] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:53] Trainer already checked in: 62345
+[2025-03-09 19:03:53] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 19:03:53] Verifying trainer ID: 62345
+[2025-03-09 19:03:53] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:53] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:53] Trainer already checked in: 62345
+[2025-03-09 19:03:53] Trainer already checked in: 62345
+[2025-03-09 19:03:53] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 19:03:53] Extracted ID: 62345
+[2025-03-09 19:03:53] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:53] Verifying trainer ID: 62345
+[2025-03-09 19:03:53] Trainer already checked in: 62345
+[2025-03-09 19:03:53] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:53] Trainer already checked in: 62345
+[2025-03-09 19:03:54] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 19:03:54] Extracted ID: 62345
+[2025-03-09 19:03:54] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:54] Trainer already checked in: 62345
+[2025-03-09 19:03:54] Verifying trainer ID: 62345
+[2025-03-09 19:03:54] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:54] Trainer already checked in: 62345
+[2025-03-09 19:03:54] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 19:03:54] Verifying trainer ID: 62345
+[2025-03-09 19:03:54] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:54] Trainer already checked in: 62345
+[2025-03-09 19:03:54] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:54] Trainer already checked in: 62345
+[2025-03-09 19:03:54] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 19:03:54] Extracted ID: 62345
+ 62345
+[2025-03-09 19:03:54] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:54] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:54] Trainer already checked in: 62345
+[2025-03-09 19:03:54] Trainer already checked in: 62345
+[2025-03-09 19:03:54] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 19:03:54] Extracted ID: 62345
+[2025-03-09 19:03:54] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:54] Verifying trainer ID: 62345
+[2025-03-09 19:03:54] Trainer already checked in: 62345
+[2025-03-09 19:03:54] Found trainer: Samuel Dsouza
+[2025-03-09 19:03:54] Trainer already checked in: 62345
+[2025-03-09 19:04:03] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 19:04:03] Extracted ID: 62345
+[2025-03-09 19:04:03] Verifying trainer ID: 62345
+[2025-03-09 19:04:03] Found trainer: Samuel Dsouza
+[2025-03-09 19:04:03] Trainer verified successfully: 62345
+[2025-03-09 19:04:03] Found trainer: Samuel Dsouza
+[2025-03-09 19:04:03] Trainer verified successfully: 62345
+[2025-03-09 19:04:03] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 19:04:03] Extracted ID: 62345
+[2025-03-09 19:04:03] Verifying trainer ID: 62345
+[2025-03-09 19:04:03] Found trainer: Samuel Dsouza
+[2025-03-09 19:04:03] Found trainer: Samuel Dsouza
+[2025-03-09 19:04:03] Trainer verified successfully: 62345
+[2025-03-09 19:04:03] Trainer verified successfully: 62345
+[2025-03-09 19:04:03] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 19:04:03] Verifying trainer ID: 62345
+[2025-03-09 19:04:03] Extracted ID: 62345
+[2025-03-09 19:04:03] Found trainer: Samuel Dsouza
+[2025-03-09 19:04:03] Trainer verified successfully: 62345
+[2025-03-09 19:04:03] Found trainer: Samuel Dsouza
+[2025-03-09 19:04:03] Trainer verified successfully: 62345
+[2025-03-09 19:04:04] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 19:04:04] Verifying trainer ID: 62345
+[2025-03-09 19:04:04] Found trainer: Samuel Dsouza
+[2025-03-09 19:04:04] Trainer verified successfully: 62345
+[2025-03-09 19:04:04] Extracted ID: 62345
+[2025-03-09 19:04:04] Found trainer: Samuel Dsouza
+[2025-03-09 19:04:04] Trainer verified successfully: 62345
+[2025-03-09 19:04:04] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 19:04:04] Verifying trainer ID: 62345
+[2025-03-09 19:04:04] Extracted ID: 62345
+[2025-03-09 19:04:04] Found trainer: Samuel Dsouza
+[2025-03-09 19:04:04] Found trainer: Samuel Dsouza
+[2025-03-09 19:04:04] Trainer verified successfully: 62345
+[2025-03-09 19:04:04] Trainer verified successfully: 62345
+[2025-03-09 19:04:04] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 19:04:04] Extracted ID: 62345
+[2025-03-09 19:04:04] Verifying trainer ID: 62345
+[2025-03-09 19:04:04] Found trainer: Samuel Dsouza
+[2025-03-09 19:04:04] Trainer verified successfully: 62345
+[2025-03-09 19:04:04] Found trainer: Samuel Dsouza
+[2025-03-09 19:04:04] Trainer verified successfully: 62345
+[2025-03-09 19:04:05] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 19:04:05] Extracted ID: 62345
+[2025-03-09 19:04:05] Found trainer: Samuel Dsouza
+[2025-03-09 19:04:05] Trainer verified successfully: 62345
+[2025-03-09 19:04:05] Verifying trainer ID: 62345
+[2025-03-09 19:04:05] Found trainer: Samuel Dsouza
+[2025-03-09 19:04:05] Trainer verified successfully: 62345
+[2025-03-09 19:04:06] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 19:04:06] Extracted ID: 62345
+[2025-03-09 19:04:06] Verifying trainer ID: 62345
+[2025-03-09 19:04:06] Found trainer: Samuel Dsouza
+[2025-03-09 19:04:06] Found trainer: Samuel Dsouza
+[2025-03-09 19:04:06] Trainer verified successfully: 62345
+[2025-03-09 19:04:06] Trainer verified successfully: 62345
+[2025-03-09 19:04:06] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 19:04:06] Verifying trainer ID: 62345
+[2025-03-09 19:04:06] Found trainer: Samuel Dsouza
+[2025-03-09 19:04:06] Trainer verified successfully: 62345
+[2025-03-09 19:04:06] Extracted ID: 62345
+[2025-03-09 19:04:06] Found trainer: Samuel Dsouza
+[2025-03-09 19:04:06] Trainer verified successfully: 62345
+[2025-03-09 19:04:06] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 19:04:06] Extracted ID: 62345
+[2025-03-09 19:04:06] Found trainer: Samuel Dsouza
+[2025-03-09 19:04:06] Trainer verified successfully: 62345
+[2025-03-09 19:04:06] Verifying trainer ID: 62345
+[2025-03-09 19:04:06] Found trainer: Samuel Dsouza
+[2025-03-09 19:04:06] Trainer verified successfully: 62345
+[2025-03-09 19:04:06] Verifying trainer ID: 62345
+[2025-03-09 19:04:06] Found trainer: Samuel Dsouza
+[2025-03-09 19:04:06] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 19:04:06] Extracted ID: 62345
+[2025-03-09 19:04:06] Trainer verified successfully: 62345
+[2025-03-09 19:04:06] Found trainer: Samuel Dsouza
+[2025-03-09 19:04:06] Trainer verified successfully: 62345
+[2025-03-09 19:04:06] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-09 19:04:06] Extracted ID: 62345
+[2025-03-09 19:04:06] Found trainer: Samuel Dsouza
+[2025-03-09 19:04:06] Trainer verified successfully: 62345
+[2025-03-09 19:04:06] Verifying trainer ID: 62345
+[2025-03-09 19:04:06] Found trainer: Samuel Dsouza
+[2025-03-09 19:04:06] Trainer verified successfully: 62345
+[2025-03-10 05:03:25] Verifying trainer ID: 62345
+K-TRAINER-62345
+[2025-03-10 05:03:25] Extracted ID: 62345
+[2025-03-10 05:03:25] Found trainer: Samuel Dsouza
+[2025-03-10 05:03:25] Found trainer: Samuel Dsouza
+[2025-03-10 05:03:25] Trainer already checked in: 62345
+[2025-03-10 05:03:25] Trainer already checked in: 62345
+[2025-03-10 05:03:25] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-10 05:03:25] Extracted ID: 62345
+[2025-03-10 05:03:25] Found trainer: Samuel Dsouza
+[2025-03-10 05:03:25] Trainer already checked in: 62345
+[2025-03-10 05:03:25] Verifying trainer ID: 62345
+[2025-03-10 05:03:25] Found trainer: Samuel Dsouza
+[2025-03-10 05:03:25] Trainer already checked in: 62345
+[2025-03-10 05:03:25] Verifying trainer ID: 62345
+[2025-03-10 05:03:25] Found trainer: Samuel Dsouza
+[2025-03-10 05:03:25] Trainer already checked in: 62345
+[2025-03-10 05:03:56] Verifying trainer ID: 62345
+K-TRAINER-62345
+[2025-03-10 05:03:56] Extracted ID: 62345
+[2025-03-10 05:03:56] Found trainer: Samuel Dsouza
+[2025-03-10 05:03:56] Found trainer: Samuel Dsouza
+[2025-03-10 05:03:56] Trainer already checked in: 62345
+[2025-03-10 05:03:56] Trainer already checked in: 62345
+[2025-03-10 05:03:56] Verifying trainer ID: 62345
+[2025-03-10 05:03:56] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-10 05:03:56] Extracted ID: 62345
+[2025-03-10 05:03:56] Found trainer: Samuel Dsouza
+[2025-03-10 05:03:56] Found trainer: Samuel Dsouza
+[2025-03-10 05:03:56] Trainer already checked in: 62345
+[2025-03-10 05:03:56] Verifying trainer ID: 62345
+[2025-03-10 05:03:56] Found trainer: Samuel Dsouza
+[2025-03-10 05:03:56] Trainer already checked in: 62345
+[2025-03-10 08:50:14] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-10 08:50:14] Extracted ID: 4324
+[2025-03-10 08:50:14] Verifying trainer ID: 4324
+[2025-03-10 08:50:14] Found trainer: sam samuel
+[2025-03-10 08:50:14] Trainer verified successfully: 4324
+[2025-03-10 08:50:14] Found trainer: sam samuel
+[2025-03-10 08:50:14] Trainer verified successfully: 4324
+[2025-03-10 08:50:14] Verifying trainer ID: 4324
+[2025-03-10 08:50:14] Found trainer: sam samuel
+[2025-03-10 08:50:14] Trainer verified successfully: 4324
+[2025-03-10 08:50:14] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-10 08:50:14] Extracted ID: 4324
+[2025-03-10 08:50:14] Found trainer: sam samuel
+[2025-03-10 08:50:14] Trainer verified successfully: 4324
+[2025-03-10 08:50:14] Verifying trainer ID: 4324
+[2025-03-10 08:50:14] Found trainer: sam samuel
+[2025-03-10 08:50:14] Trainer verified successfully: 4324
+[2025-03-10 08:51:17] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-10 08:51:17] Extracted ID: 4324
+[2025-03-10 08:51:17] Verifying trainer ID: 4324
+[2025-03-10 08:51:17] Found trainer: sam samuel
+[2025-03-10 08:51:17] Trainer verified successfully: 4324
+[2025-03-10 08:51:17] Found trainer: sam samuel
+[2025-03-10 08:51:17] Trainer verified successfully: 4324
+[2025-03-10 08:51:17] Verifying trainer ID: 4324
+[2025-03-10 08:51:17] Found trainer: sam samuel
+[2025-03-10 08:51:17] Trainer verified successfully: 4324
+[2025-03-10 08:51:17] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-10 08:51:17] Extracted ID: 4324
+[2025-03-10 08:51:17] Verifying trainer ID: 4324
+[2025-03-10 08:51:17] Found trainer: sam samuel
+[2025-03-10 08:51:17] Found trainer: sam samuel
+[2025-03-10 08:51:17] Trainer verified successfully: 4324
+[2025-03-10 08:51:17] Trainer verified successfully: 4324
+[2025-03-10 09:29:50] Verifying trainer ID: 4324
+RK-TRAINER-4324
+[2025-03-10 09:29:50] Extracted ID: 4324
+[2025-03-10 09:29:50] Found trainer: sam samuel
+[2025-03-10 09:29:50] Found trainer: sam samuel
+[2025-03-10 09:29:50] Trainer verified successfully: 4324
+[2025-03-10 09:29:50] Trainer verified successfully: 4324
+[2025-03-10 09:29:50] Verifying trainer ID: 4324
+[2025-03-10 09:29:50] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-10 09:29:50] Extracted ID: 4324
+[2025-03-10 09:29:50] Found trainer: sam samuel
+[2025-03-10 09:29:50] Trainer verified successfully: 4324
+[2025-03-10 09:29:50] Found trainer: sam samuel
+[2025-03-10 09:29:50] Trainer verified successfully: 4324
+[2025-03-10 09:29:50] Verifying trainer ID: 4324
+[2025-03-10 09:29:50] Found trainer: sam samuel
+[2025-03-10 09:29:50] Trainer verified successfully: 4324
+[2025-03-10 09:31:47] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-10 09:31:47] Verifying trainer ID: 4324
+[2025-03-10 09:31:47] Extracted ID: 4324
+[2025-03-10 09:31:47] Found trainer: sam samuel
+[2025-03-10 09:31:47] Found trainer: sam samuel
+[2025-03-10 09:31:47] Trainer verified successfully: 4324
+[2025-03-10 09:31:47] Trainer verified successfully: 4324
+[2025-03-10 09:31:47] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-10 09:31:47] Extracted ID: 4324
+[2025-03-10 09:31:47] Found trainer: sam samuel
+[2025-03-10 09:31:47] Verifying trainer ID: 4324
+[2025-03-10 09:31:47] Trainer verified successfully: 4324
+[2025-03-10 09:31:47] Found trainer: sam samuel
+[2025-03-10 09:31:47] Trainer verified successfully: 4324
+[2025-03-10 09:31:47] Verifying trainer ID: 4324
+[2025-03-10 09:31:47] Found trainer: sam samuel
+[2025-03-10 09:31:47] Trainer verified successfully: 4324
+[2025-03-10 10:15:20] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-10 10:15:20] Extracted ID: 62345
+[2025-03-10 10:15:20] Found trainer: Samuel Dsouza
+[2025-03-10 10:15:20] Trainer already checked in: 62345
+[2025-03-10 10:15:20] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-10 10:15:20] Extracted ID: 62345
+[2025-03-10 10:15:20] Found trainer: Samuel Dsouza
+[2025-03-10 10:15:20] Verifying trainer ID: 62345
+[2025-03-10 10:15:20] Trainer already checked in: 62345
+[2025-03-10 10:15:20] Found trainer: Samuel Dsouza
+[2025-03-10 10:15:20] Trainer already checked in: 62345
+[2025-03-10 10:15:20] Verifying trainer ID: 62345
+[2025-03-10 10:15:20] Found trainer: Samuel Dsouza
+[2025-03-10 10:15:20] Trainer already checked in: 62345
+[2025-03-10 10:15:41] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-10 10:15:41] Extracted ID: 62345
+[2025-03-10 10:15:41] Found trainer: Samuel Dsouza
+[2025-03-10 10:15:41] Trainer already checked in: 62345
+[2025-03-10 10:15:41] Verifying trainer ID: 62345
+[2025-03-10 10:15:41] Found trainer: Samuel Dsouza
+[2025-03-10 10:15:41] Trainer already checked in: 62345
+[2025-03-10 10:15:41] Verifying trainer ID: 62345
+[2025-03-10 10:15:41] Found trainer: Samuel Dsouza
+[2025-03-10 10:15:41] Trainer already checked in: 62345
+[2025-03-10 10:15:41] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-10 10:15:41] Extracted ID: 62345
+[2025-03-10 10:15:41] Found trainer: Samuel Dsouza
+[2025-03-10 10:15:41] Trainer already checked in: 62345
+[2025-03-10 10:15:41] Verifying trainer ID: 62345
+[2025-03-10 10:15:41] Found trainer: Samuel Dsouza
+[2025-03-10 10:15:41] Trainer already checked in: 62345
+[2025-03-10 10:16:44] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-10 10:16:44] Extracted ID: 62345
+[2025-03-10 10:16:44] Verifying trainer ID: 62345
+[2025-03-10 10:16:44] Found trainer: Samuel Dsouza
+[2025-03-10 10:16:44] Trainer already checked in: 62345
+[2025-03-10 10:16:44] Trainer already checked in: 62345
+[2025-03-10 10:16:44] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-10 10:16:44] Extracted ID: 62345
+[2025-03-10 10:16:44] Found trainer: Samuel Dsouza
+[2025-03-10 10:16:44] Trainer already checked in: 62345
+[2025-03-10 10:16:44] Verifying trainer ID: 62345
+[2025-03-10 10:16:44] Found trainer: Samuel Dsouza
+[2025-03-10 10:16:44] Trainer already checked in: 62345
+[2025-03-10 10:16:44] Verifying trainer ID: 62345
+[2025-03-10 10:16:44] Found trainer: Samuel Dsouza
+[2025-03-10 10:16:44] Trainer already checked in: 62345
+[2025-03-22 13:29:09] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 13:29:09] Extracted ID: 4324
+[2025-03-22 13:29:09] Found trainer: sam samuel
+[2025-03-22 13:29:09] Trainer verified successfully: 4324
+[2025-03-22 13:29:09] Found trainer: sam samuel
+[2025-03-22 13:29:09] Trainer verified successfully: 4324
+[2025-03-22 13:29:09] Verifying trainer ID: 4324
+[2025-03-22 13:29:09] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 13:29:09] Extracted ID: 4324
+[2025-03-22 13:29:09] Found trainer: sam samuel
+[2025-03-22 13:29:09] Found trainer: sam samuel
+[2025-03-22 13:29:09] Trainer verified successfully: 4324
+[2025-03-22 13:29:09] Trainer verified successfully: 4324
+[2025-03-22 13:29:09] Verifying trainer ID: 4324
+[2025-03-22 13:29:09] Found trainer: sam samuel
+[2025-03-22 13:29:09] Trainer already checked in: 4324
+[2025-03-22 13:29:35] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 13:29:35] Extracted ID: 4324
+[2025-03-22 13:29:35] Found trainer: sam samuel
+[2025-03-22 13:29:35] Trainer verified successfully: 4324
+[2025-03-22 13:29:35] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 13:29:35] Extracted ID: 4324
+[2025-03-22 13:29:35] Found trainer: sam samuel
+[2025-03-22 13:29:35] Trainer verified successfully: 4324
+[2025-03-22 13:29:35] Verifying trainer ID: 4324
+[2025-03-22 13:29:35] Found trainer: sam samuel
+[2025-03-22 13:29:35] Trainer verified successfully: 4324
+[2025-03-22 13:29:35] Verifying trainer ID: 4324
+[2025-03-22 13:29:35] Found trainer: sam samuel
+[2025-03-22 13:29:35] Trainer verified successfully: 4324
+[2025-03-22 13:29:43] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 13:29:43] Extracted ID: 4324
+: 4324
+[2025-03-22 13:29:43] Found trainer: sam samuel
+[2025-03-22 13:29:43] Found trainer: sam samuel
+[2025-03-22 13:29:43] Trainer already checked in: 4324
+[2025-03-22 13:29:43] Trainer already checked in: 4324
+[2025-03-22 13:29:43] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 13:29:43] Extracted ID: 4324
+[2025-03-22 13:29:43] Found trainer: sam samuel
+[2025-03-22 13:29:43] Trainer already checked in: 4324
+[2025-03-22 13:29:43] Verifying trainer ID: 4324
+[2025-03-22 13:29:43] Found trainer: sam samuel
+[2025-03-22 13:29:43] Trainer already checked in: 4324
+[2025-03-22 13:29:43] Verifying trainer ID: 4324
+[2025-03-22 13:29:43] Found trainer: sam samuel
+[2025-03-22 13:29:43] Trainer already checked in: 4324
+[2025-03-22 13:31:01] Verifying trainer ID: 62345
+K-TRAINER-62345
+[2025-03-22 13:31:01] Extracted ID: 62345
+[2025-03-22 13:31:01] Found trainer: Samuel Dsouza
+[2025-03-22 13:31:01] Found trainer: Samuel Dsouza
+[2025-03-22 13:31:01] Trainer verified successfully: 62345
+[2025-03-22 13:31:01] Trainer verified successfully: 62345
+[2025-03-22 13:31:01] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-22 13:31:01] Extracted ID: 62345
+[2025-03-22 13:31:01] Found trainer: Samuel Dsouza
+[2025-03-22 13:31:01] Verifying trainer ID: 62345
+[2025-03-22 13:31:01] Found trainer: Samuel Dsouza
+[2025-03-22 13:31:01] Trainer already checked in: 62345
+[2025-03-22 13:31:01] Trainer already checked in: 62345
+[2025-03-22 13:31:01] Verifying trainer ID: 62345
+[2025-03-22 13:31:01] Found trainer: Samuel Dsouza
+[2025-03-22 13:31:01] Trainer already checked in: 62345
+[2025-03-22 13:33:16] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-22 13:33:16] Extracted ID: 62345
+[2025-03-22 13:33:16] Verifying trainer ID: 62345
+[2025-03-22 13:33:16] Found trainer: Samuel Dsouza
+[2025-03-22 13:33:16] Found trainer: Samuel Dsouza
+[2025-03-22 13:33:16] Trainer verified successfully: 62345
+[2025-03-22 13:33:16] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-22 13:33:16] Extracted ID: 62345
+[2025-03-22 13:33:16] Found trainer: Samuel Dsouza
+[2025-03-22 13:33:16] Trainer verified successfully: 62345
+[2025-03-22 13:33:16] Verifying trainer ID: 62345
+[2025-03-22 13:33:16] Found trainer: Samuel Dsouza
+[2025-03-22 13:33:16] Trainer already checked in: 62345
+[2025-03-22 13:33:16] Verifying trainer ID: 62345
+[2025-03-22 13:33:16] Found trainer: Samuel Dsouza
+[2025-03-22 13:33:16] Trainer already checked in: 62345
+[2025-03-22 13:39:14] Verifying trainer ID: 62345
+K-TRAINER-62345
+[2025-03-22 13:39:14] Extracted ID: 62345
+[2025-03-22 13:39:14] Found trainer: Samuel Dsouza
+[2025-03-22 13:39:14] Found trainer: Samuel Dsouza
+ 62345
+[2025-03-22 13:39:14] Trainer verified successfully: 62345
+[2025-03-22 13:39:14] Verifying trainer ID: 62345
+[2025-03-22 13:39:14] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-22 13:39:14] Extracted ID: 62345
+[2025-03-22 13:39:14] Found trainer: Samuel Dsouza
+[2025-03-22 13:39:14] Trainer verified successfully: 62345
+[2025-03-22 13:39:14] Found trainer: Samuel Dsouza
+[2025-03-22 13:39:14] Trainer verified successfully: 62345
+[2025-03-22 13:39:14] Verifying trainer ID: 62345
+[2025-03-22 13:39:14] Found trainer: Samuel Dsouza
+[2025-03-22 13:39:14] Trainer already checked in: 62345
+[2025-03-22 13:51:40] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-22 13:51:40] Extracted ID: 62345
+[2025-03-22 13:51:40] Found trainer: Samuel Dsouza
+[2025-03-22 13:51:40] Verifying trainer ID: 62345
+: 62345
+[2025-03-22 13:51:40] Found trainer: Samuel Dsouza
+[2025-03-22 13:51:40] Trainer verified successfully: 62345
+[2025-03-22 13:51:40] Verifying trainer ID: 62345
+[2025-03-22 13:51:40] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-22 13:51:40] Extracted ID: 62345
+[2025-03-22 13:51:40] Found trainer: Samuel Dsouza
+[2025-03-22 13:51:40] Found trainer: Samuel Dsouza
+[2025-03-22 13:51:40] Trainer verified successfully: 62345
+[2025-03-22 13:51:40] Trainer verified successfully: 62345
+[2025-03-22 13:51:40] Verifying trainer ID: 62345
+[2025-03-22 13:51:40] Found trainer: Samuel Dsouza
+[2025-03-22 13:51:40] Trainer verified successfully: 62345
+[2025-03-22 13:51:47] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-22 13:51:47] Extracted ID: 62345
+[2025-03-22 13:51:47] Verifying trainer ID: 62345
+[2025-03-22 13:51:47] Found trainer: Samuel Dsouza
+[2025-03-22 13:51:47] Trainer already checked in: 62345
+[2025-03-22 13:51:47] Trainer already checked in: 62345
+[2025-03-22 13:51:47] Verifying trainer ID: GYMSHARK-TRAINER-62345
+[2025-03-22 13:51:47] Extracted ID: 62345
+[2025-03-22 13:51:47] Found trainer: Samuel Dsouza
+[2025-03-22 13:51:47] Found trainer: Samuel Dsouza
+[2025-03-22 13:51:47] Trainer already checked in: 62345
+[2025-03-22 13:51:47] Verifying trainer ID: 62345
+[2025-03-22 13:51:47] Found trainer: Samuel Dsouza
+[2025-03-22 13:51:47] Trainer already checked in: 62345
+[2025-03-22 14:00:07] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 14:00:07] Extracted ID: 4324
+[2025-03-22 14:00:07] Found trainer: john doe
+[2025-03-22 14:00:07] Verifying trainer ID: 4324
+[2025-03-22 14:00:07] Found trainer: john doe
+[2025-03-22 14:00:07] Trainer verified successfully: 4324
+[2025-03-22 14:00:07] Trainer verified successfully: 4324
+[2025-03-22 14:00:07] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 14:00:07] Extracted ID: 4324
+[2025-03-22 14:00:07] Verifying trainer ID: 4324
+[2025-03-22 14:00:07] Found trainer: john doe
+[2025-03-22 14:00:07] Found trainer: john doe
+[2025-03-22 14:00:07] Trainer verified successfully: 4324
+[2025-03-22 14:00:07] Trainer verified successfully: 4324
+[2025-03-22 14:00:07] Verifying trainer ID: 4324
+[2025-03-22 14:00:07] Found trainer: john doe
+[2025-03-22 14:00:07] Trainer verified successfully: 4324
+[2025-03-22 14:00:12] Verifying trainer ID: 4324
+RK-TRAINER-4324
+[2025-03-22 14:00:12] Extracted ID: 4324
+[2025-03-22 14:00:12] Found trainer: john doe
+[2025-03-22 14:00:12] Found trainer: john doe
+[2025-03-22 14:00:12] Trainer already checked in: 4324
+[2025-03-22 14:00:12] Trainer already checked in: 4324
+[2025-03-22 14:00:12] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 14:00:12] Extracted ID: 4324
+[2025-03-22 14:00:12] Verifying trainer ID: 4324
+[2025-03-22 14:00:12] Found trainer: john doe
+[2025-03-22 14:00:12] Found trainer: john doe
+[2025-03-22 14:00:12] Trainer already checked in: 4324
+[2025-03-22 14:00:12] Trainer already checked in: 4324
+[2025-03-22 14:00:12] Verifying trainer ID: 4324
+[2025-03-22 14:00:12] Found trainer: john doe
+[2025-03-22 14:00:12] Trainer already checked in: 4324
+[2025-03-22 14:22:18] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 14:22:18] Extracted ID: 4324
+[2025-03-22 14:22:18] Verifying trainer ID: 4324
+[2025-03-22 14:22:18] Found trainer: john doe
+[2025-03-22 14:22:18] Found trainer: john doe
+[2025-03-22 14:22:18] Trainer verified successfully: 4324
+[2025-03-22 14:22:18] Trainer verified successfully: 4324
+[2025-03-22 14:22:18] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 14:22:18] Extracted ID: 4324
+[2025-03-22 14:22:18] Verifying trainer ID: 4324
+[2025-03-22 14:22:18] Trainer verified successfully: 4324
+[2025-03-22 14:22:18] Found trainer: john doe
+[2025-03-22 14:22:18] Trainer verified successfully: 4324
+[2025-03-22 14:22:18] Verifying trainer ID: 4324
+[2025-03-22 14:22:18] Found trainer: john doe
+[2025-03-22 14:22:18] Trainer verified successfully: 4324
+[2025-03-22 14:22:21] Verifying trainer ID: 4324
+[2025-03-22 14:22:21] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 14:22:21] Extracted ID: 4324
+[2025-03-22 14:22:21] Found trainer: john doe
+[2025-03-22 14:22:21] Found trainer: john doe
+[2025-03-22 14:22:21] Trainer already checked in: 4324
+[2025-03-22 14:22:21] Trainer already checked in: 4324
+[2025-03-22 14:22:21] Verifying trainer ID: 4324
+[2025-03-22 14:22:21] Found trainer: john doe
+[2025-03-22 14:22:21] Trainer already checked in: 4324
+[2025-03-22 14:22:21] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 14:22:21] Verifying trainer ID: 4324
+[2025-03-22 14:22:21] Extracted ID: 4324
+[2025-03-22 14:22:21] Found trainer: john doe
+[2025-03-22 14:22:21] Found trainer: john doe
+[2025-03-22 14:22:21] Trainer already checked in: 4324
+[2025-03-22 14:22:21] Trainer already checked in: 4324
+[2025-03-22 14:40:41] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 14:40:41] Verifying trainer ID: 4324
+[2025-03-22 14:40:41] Found trainer: john doe
+[2025-03-22 14:40:41] Trainer verified successfully: 4324
+[2025-03-22 14:40:41] Verifying trainer ID: 4324
+[2025-03-22 14:40:41] Found trainer: john doe
+[2025-03-22 14:40:41] Trainer verified successfully: 4324
+[2025-03-22 14:40:41] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 14:40:41] Extracted ID: 4324
+[2025-03-22 14:40:41] Found trainer: john doe
+[2025-03-22 14:40:41] Trainer verified successfully: 4324
+[2025-03-22 14:40:41] Verifying trainer ID: 4324
+[2025-03-22 14:40:41] Found trainer: john doe
+[2025-03-22 14:40:41] Trainer already checked in: 4324
+[2025-03-22 14:53:42] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 14:53:42] Extracted ID: 4324
+[2025-03-22 14:53:42] Verifying trainer ID: 4324
+[2025-03-22 14:53:42] Found trainer: john doe
+[2025-03-22 14:53:42] Found trainer: john doe
+[2025-03-22 14:53:42] Trainer verified successfully: 4324
+[2025-03-22 14:53:42] Trainer verified successfully: 4324
+[2025-03-22 14:53:42] Verifying trainer ID: 4324
+[2025-03-22 14:53:42] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 14:53:42] Extracted ID: 4324
+doe
+[2025-03-22 14:53:42] Trainer verified successfully: 4324
+[2025-03-22 14:53:42] Found trainer: john doe
+[2025-03-22 14:53:42] Trainer verified successfully: 4324
+[2025-03-22 14:53:42] Verifying trainer ID: 4324
+[2025-03-22 14:53:42] Found trainer: john doe
+[2025-03-22 14:53:42] Trainer already checked in: 4324
+[2025-03-22 14:54:05] Verifying trainer ID: 4324
+[2025-03-22 14:54:05] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 14:54:05] Extracted ID: 4324
+[2025-03-22 14:54:05] Found trainer: john doe
+[2025-03-22 14:54:05] Trainer verified successfully: 4324
+[2025-03-22 14:54:05] Trainer verified successfully: 4324
+[2025-03-22 14:54:05] Verifying trainer ID: 4324
+[2025-03-22 14:54:05] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 14:54:05] Extracted ID: 4324
+[2025-03-22 14:54:05] Found trainer: john doe
+[2025-03-22 14:54:05] Trainer verified successfully: 4324
+[2025-03-22 14:54:05] Found trainer: john doe
+[2025-03-22 14:54:05] Trainer verified successfully: 4324
+[2025-03-22 14:54:05] Verifying trainer ID: 4324
+[2025-03-22 14:54:05] Found trainer: john doe
+[2025-03-22 14:54:05] Trainer already checked in: 4324
+[2025-03-22 15:15:43] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 15:15:43] Verifying trainer ID: 4324
+[2025-03-22 15:15:43] Extracted ID: 4324
+[2025-03-22 15:15:43] Found trainer: john doe
+[2025-03-22 15:15:43] Found trainer: john doe
+[2025-03-22 15:15:43] Trainer verified successfully: 4324
+[2025-03-22 15:15:43] Verifying trainer ID: 4324
+[2025-03-22 15:15:43] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 15:15:43] Extracted ID: 4324
+[2025-03-22 15:15:43] Found trainer: john doe
+[2025-03-22 15:15:43] Trainer verified successfully: 4324
+[2025-03-22 15:15:43] Found trainer: john doe
+[2025-03-22 15:15:43] Trainer verified successfully: 4324
+[2025-03-22 15:15:43] Verifying trainer ID: 4324
+[2025-03-22 15:15:43] Found trainer: john doe
+[2025-03-22 15:15:43] Trainer verified successfully: 4324
+[2025-03-22 15:16:08] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 15:16:08] Verifying trainer ID: 4324
+[2025-03-22 15:16:08] Extracted ID: 4324
+[2025-03-22 15:16:08] Found trainer: john doe
+[2025-03-22 15:16:08] Found trainer: john doe
+n: 4324
+[2025-03-22 15:16:08] Trainer already checked in: 4324
+[2025-03-22 15:16:08] Verifying trainer ID: 4324
+[2025-03-22 15:16:08] Found trainer: john doe
+SHARK-TRAINER-4324
+[2025-03-22 15:16:08] Extracted ID: 4324
+[2025-03-22 15:16:08] Found trainer: john doe
+[2025-03-22 15:16:08] Trainer already checked in: 4324
+[2025-03-22 15:16:08] Trainer already checked in: 4324
+[2025-03-22 15:16:08] Verifying trainer ID: 4324
+[2025-03-22 15:16:08] Found trainer: john doe
+[2025-03-22 15:16:08] Trainer already checked in: 4324
+[2025-03-22 15:17:12] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 15:17:12] Extracted ID: 4324
+[2025-03-22 15:17:12] Verifying trainer ID: 4324
+[2025-03-22 15:17:12] Found trainer: john doe
+[2025-03-22 15:17:12] Found trainer: john doe
+[2025-03-22 15:17:12] Trainer verified successfully: 4324
+[2025-03-22 15:17:12] Verifying trainer ID: 4324
+[2025-03-22 15:17:12] Found trainer: john doe
+[2025-03-22 15:17:12] Trainer verified successfully: 4324
+[2025-03-22 15:17:12] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 15:17:12] Extracted ID: 4324
+[2025-03-22 15:17:12] Found trainer: john doe
+[2025-03-22 15:17:12] Trainer verified successfully: 4324
+[2025-03-22 15:17:12] Verifying trainer ID: 4324
+[2025-03-22 15:17:12] Found trainer: john doe
+[2025-03-22 15:17:12] Trainer verified successfully: 4324
+[2025-03-22 15:17:32] Verifying trainer ID: 4324
+RK-TRAINER-4324
+[2025-03-22 15:17:32] Extracted ID: 4324
+[2025-03-22 15:17:32] Found trainer: john doe
+[2025-03-22 15:17:32] Found trainer: john doe
+[2025-03-22 15:17:32] Trainer already checked in: 4324
+[2025-03-22 15:17:32] Trainer already checked in: 4324
+[2025-03-22 15:17:32] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 15:17:32] Extracted ID: 4324
+[2025-03-22 15:17:32] Found trainer: john doe
+[2025-03-22 15:17:32] Trainer already checked in: 4324
+[2025-03-22 15:17:32] Verifying trainer ID: 4324
+[2025-03-22 15:17:32] Found trainer: john doe
+[2025-03-22 15:17:32] Trainer already checked in: 4324
+[2025-03-22 15:17:32] Verifying trainer ID: 4324
+[2025-03-22 15:17:32] Found trainer: john doe
+[2025-03-22 15:17:32] Trainer already checked in: 4324
+[2025-03-22 15:20:13] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 15:20:13] Extracted ID: 4324
+[2025-03-22 15:20:13] Found trainer: john doe
+[2025-03-22 15:20:13] Found trainer: john doe
+[2025-03-22 15:20:13] Trainer verified successfully: 4324
+[2025-03-22 15:20:13] Trainer verified successfully: 4324
+[2025-03-22 15:20:13] Verifying trainer ID: 4324
+[2025-03-22 15:20:13] Found trainer: john doe
+[2025-03-22 15:20:13] Trainer verified successfully: 4324
+[2025-03-22 15:20:13] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 15:20:13] Extracted ID: 4324
+[2025-03-22 15:20:13] Found trainer: john doe
+[2025-03-22 15:20:13] Trainer verified successfully: 4324
+[2025-03-22 15:20:13] Verifying trainer ID: 4324
+[2025-03-22 15:20:13] Found trainer: john doe
+[2025-03-22 15:20:13] Trainer already checked in: 4324
+[2025-03-22 15:20:33] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 15:20:33] Verifying trainer ID: 4324
+[2025-03-22 15:20:33] Found trainer: john doe
+[2025-03-22 15:20:33] Found trainer: john doe
+[2025-03-22 15:20:33] Trainer already checked in: 4324
+[2025-03-22 15:20:33] Trainer already checked in: 4324
+[2025-03-22 15:20:33] Verifying trainer ID: 4324
+[2025-03-22 15:20:33] Found trainer: john doe
+[2025-03-22 15:20:33] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 15:20:33] Extracted ID: 4324
+[2025-03-22 15:20:33] Found trainer: john doe
+[2025-03-22 15:20:33] Trainer already checked in: 4324
+[2025-03-22 15:20:33] Trainer already checked in: 4324
+[2025-03-22 15:20:33] Verifying trainer ID: 4324
+[2025-03-22 15:20:33] Found trainer: john doe
+[2025-03-22 15:20:33] Trainer already checked in: 4324
+[2025-03-22 15:31:31] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 15:31:31] Extracted ID: 4324
+[2025-03-22 15:31:31] Found trainer: john doe
+[2025-03-22 15:31:31] Found trainer: john doe
+[2025-03-22 15:31:31] Trainer verified successfully: 4324
+[2025-03-22 15:31:31] Trainer verified successfully: 4324
+[2025-03-22 15:31:31] Verifying trainer ID: 4324
+[2025-03-22 15:31:31] Found trainer: john doe
+[2025-03-22 15:31:31] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 15:31:31] Extracted ID: 4324
+[2025-03-22 15:31:31] Trainer verified successfully: 4324
+[2025-03-22 15:31:31] Found trainer: john doe
+[2025-03-22 15:31:31] Trainer verified successfully: 4324
+[2025-03-22 15:31:31] Verifying trainer ID: 4324
+[2025-03-22 15:31:31] Found trainer: john doe
+[2025-03-22 15:31:31] Trainer already checked in: 4324
+[2025-03-22 15:31:44] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 15:31:44] Extracted ID: 4324
+[2025-03-22 15:31:44] Verifying trainer ID: 4324
+[2025-03-22 15:31:44] Found trainer: john doe
+[2025-03-22 15:31:44] Found trainer: john doe
+n: 4324
+[2025-03-22 15:31:44] Trainer already checked in: 4324
+[2025-03-22 15:31:44] Verifying trainer ID: 4324
+[2025-03-22 15:31:44] Found trainer: john doe
+[2025-03-22 15:31:44] Trainer already checked in: 4324
+[2025-03-22 15:31:44] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 15:31:44] Extracted ID: 4324
+[2025-03-22 15:31:44] Found trainer: john doe
+[2025-03-22 15:31:44] Verifying trainer ID: 4324
+[2025-03-22 15:31:44] Trainer already checked in: 4324
+[2025-03-22 15:31:44] Found trainer: john doe
+[2025-03-22 15:31:44] Trainer already checked in: 4324
+[2025-03-22 15:32:31] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 15:32:31] Extracted ID: 4324
+[2025-03-22 15:32:31] Verifying trainer ID: 4324
+[2025-03-22 15:32:31] Found trainer: john doe
+[2025-03-22 15:32:31] Trainer verified successfully: 4324
+[2025-03-22 15:32:31] Trainer verified successfully: 4324
+[2025-03-22 15:32:31] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 15:32:31] Extracted ID: 4324
+[2025-03-22 15:32:31] Verifying trainer ID: 4324
+[2025-03-22 15:32:31] Found trainer: john doe
+[2025-03-22 15:32:31] Trainer verified successfully: 4324
+[2025-03-22 15:32:31] Found trainer: john doe
+[2025-03-22 15:32:31] Trainer verified successfully: 4324
+[2025-03-22 15:32:31] Verifying trainer ID: 4324
+[2025-03-22 15:32:31] Found trainer: john doe
+[2025-03-22 15:32:31] Trainer verified successfully: 4324
+[2025-03-22 15:32:39] Verifying trainer ID: 4324
+RK-TRAINER-4324
+[2025-03-22 15:32:39] Extracted ID: 4324
+[2025-03-22 15:32:39] Found trainer: john doe
+[2025-03-22 15:32:39] Found trainer: john doe
+[2025-03-22 15:32:39] Trainer already checked in: 4324
+[2025-03-22 15:32:39] Verifying trainer ID: 4324
+[2025-03-22 15:32:39] Found trainer: john doe
+[2025-03-22 15:32:39] Trainer already checked in: 4324
+[2025-03-22 15:32:39] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 15:32:39] Extracted ID: 4324
+[2025-03-22 15:32:39] Verifying trainer ID: 4324
+[2025-03-22 15:32:39] Found trainer: john doe
+[2025-03-22 15:32:39] Trainer already checked in: 4324
+[2025-03-22 15:32:39] Found trainer: john doe
+[2025-03-22 15:32:39] Trainer already checked in: 4324
+[2025-03-22 15:32:54] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 15:32:54] Extracted ID: 4324
+[2025-03-22 15:32:54] Verifying trainer ID: 4324
+[2025-03-22 15:32:54] Found trainer: john doe
+[2025-03-22 15:32:54] Trainer verified successfully: 4324
+[2025-03-22 15:32:54] Found trainer: john doe
+[2025-03-22 15:32:54] Trainer verified successfully: 4324
+[2025-03-22 15:32:54] Verifying trainer ID: 4324
+[2025-03-22 15:32:54] Found trainer: john doe
+[2025-03-22 15:32:54] Trainer verified successfully: 4324
+[2025-03-22 15:32:54] Verifying trainer ID: 4324
+[2025-03-22 15:32:54] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 15:32:54] Extracted ID: 4324
+[2025-03-22 15:32:54] Found trainer: john doe
+[2025-03-22 15:32:54] Found trainer: john doe
+[2025-03-22 15:32:54] Trainer verified successfully: 4324
+[2025-03-22 15:32:54] Trainer verified successfully: 4324
+[2025-03-22 15:33:22] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 15:33:22] Extracted ID: 4324
+[2025-03-22 15:33:22] Found trainer: john doe
+[2025-03-22 15:33:22] Verifying trainer ID: 4324
+[2025-03-22 15:33:22] Trainer already checked in: 4324
+[2025-03-22 15:33:22] Found trainer: john doe
+[2025-03-22 15:33:22] Trainer already checked in: 4324
+[2025-03-22 15:33:22] Verifying trainer ID: 4324
+[2025-03-22 15:33:22] Found trainer: john doe
+[2025-03-22 15:33:22] Trainer already checked in: 4324
+[2025-03-22 15:33:22] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 15:33:22] Extracted ID: 4324
+[2025-03-22 15:33:22] Found trainer: john doe
+[2025-03-22 15:33:22] Verifying trainer ID: 4324
+[2025-03-22 15:33:22] Found trainer: john doe
+[2025-03-22 15:33:22] Trainer already checked in: 4324
+[2025-03-22 15:33:22] Trainer already checked in: 4324
+[2025-03-22 15:33:36] Verifying trainer ID: 4324
+RK-TRAINER-4324
+[2025-03-22 15:33:36] Extracted ID: 4324
+[2025-03-22 15:33:36] Found trainer: john doe
+[2025-03-22 15:33:36] Found trainer: john doe
+[2025-03-22 15:33:36] Trainer verified successfully: 4324
+[2025-03-22 15:33:36] Trainer verified successfully: 4324
+[2025-03-22 15:33:36] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 15:33:36] Extracted ID: 4324
+[2025-03-22 15:33:36] Verifying trainer ID: 4324
+[2025-03-22 15:33:36] Found trainer: john doe
+[2025-03-22 15:33:36] Found trainer: john doe
+[2025-03-22 15:33:36] Trainer verified successfully: 4324
+[2025-03-22 15:33:36] Trainer verified successfully: 4324
+[2025-03-22 15:33:36] Verifying trainer ID: 4324
+[2025-03-22 15:33:36] Found trainer: john doe
+[2025-03-22 15:33:36] Trainer already checked in: 4324
+[2025-03-22 15:33:49] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 15:33:49] Extracted ID: 4324
+[2025-03-22 15:33:49] Found trainer: john doe
+4
+[2025-03-22 15:33:49] Found trainer: john doe
+n: 4324
+[2025-03-22 15:33:49] Trainer already checked in: 4324
+[2025-03-22 15:33:49] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 15:33:49] Extracted ID: 4324
+[2025-03-22 15:33:49] Found trainer: john doe
+[2025-03-22 15:33:49] Trainer already checked in: 4324
+[2025-03-22 15:33:49] Verifying trainer ID: 4324
+[2025-03-22 15:33:49] Found trainer: john doe
+[2025-03-22 15:33:49] Trainer already checked in: 4324
+[2025-03-22 15:33:49] Verifying trainer ID: 4324
+[2025-03-22 15:33:49] Found trainer: john doe
+[2025-03-22 15:33:49] Trainer already checked in: 4324
+[2025-03-22 16:30:01] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 16:30:01] Extracted ID: 4324
+[2025-03-22 16:30:01] Found trainer: john doe
+[2025-03-22 16:30:01] Trainer verified successfully: 4324
+[2025-03-22 16:30:01] Trainer verified successfully: 4324
+[2025-03-22 16:30:01] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 16:30:01] Extracted ID: 4324
+[2025-03-22 16:30:01] Verifying trainer ID: 4324
+[2025-03-22 16:30:01] Found trainer: john doe
+[2025-03-22 16:30:01] Trainer verified successfully: 4324
+[2025-03-22 16:30:01] Found trainer: john doe
+[2025-03-22 16:30:01] Trainer verified successfully: 4324
+[2025-03-22 16:30:01] Verifying trainer ID: 4324
+[2025-03-22 16:30:01] Found trainer: john doe
+[2025-03-22 16:30:01] Trainer verified successfully: 4324
+[2025-03-22 16:30:03] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 16:30:03] Extracted ID: 4324
+: 4324
+[2025-03-22 16:30:03] Found trainer: john doe
+[2025-03-22 16:30:03] Trainer already checked in: 4324
+[2025-03-22 16:30:03] Found trainer: john doe
+[2025-03-22 16:30:03] Trainer already checked in: 4324
+[2025-03-22 16:30:03] Verifying trainer ID: 4324
+[2025-03-22 16:30:03] Found trainer: john doe
+[2025-03-22 16:30:03] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 16:30:03] Extracted ID: 4324
+[2025-03-22 16:30:03] Found trainer: john doe
+[2025-03-22 16:30:03] Trainer already checked in: 4324
+[2025-03-22 16:30:03] Trainer already checked in: 4324
+[2025-03-22 16:30:03] Verifying trainer ID: 4324
+[2025-03-22 16:30:03] Found trainer: john doe
+[2025-03-22 16:30:03] Trainer already checked in: 4324
+[2025-03-22 16:30:14] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 16:30:14] Extracted ID: 4324
+[2025-03-22 16:30:14] Found trainer: john doe
+[2025-03-22 16:30:14] Found trainer: john doe
+[2025-03-22 16:30:14] Trainer already checked in: 4324
+[2025-03-22 16:30:14] Trainer already checked in: 4324
+[2025-03-22 16:30:14] Verifying trainer ID: 4324
+[2025-03-22 16:30:14] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 16:30:14] Extracted ID: 4324
+[2025-03-22 16:30:14] Found trainer: john doe
+[2025-03-22 16:30:14] Found trainer: john doe
+[2025-03-22 16:30:14] Trainer already checked in: 4324
+[2025-03-22 16:30:14] Trainer already checked in: 4324
+[2025-03-22 16:30:14] Verifying trainer ID: 4324
+[2025-03-22 16:30:14] Found trainer: john doe
+[2025-03-22 16:30:14] Trainer already checked in: 4324
+[2025-03-22 16:30:18] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 16:30:18] Extracted ID: 4324
+[2025-03-22 16:30:18] Verifying trainer ID: 4324
+[2025-03-22 16:30:18] Found trainer: john doe
+[2025-03-22 16:30:18] Found trainer: john doe
+[2025-03-22 16:30:18] Trainer already checked in: 4324
+[2025-03-22 16:30:18] Trainer already checked in: 4324
+[2025-03-22 16:30:18] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 16:30:18] Extracted ID: 4324
+[2025-03-22 16:30:18] Found trainer: john doe
+[2025-03-22 16:30:18] Trainer already checked in: 4324
+[2025-03-22 16:30:18] Verifying trainer ID: 4324
+[2025-03-22 16:30:18] Found trainer: john doe
+[2025-03-22 16:30:18] Trainer already checked in: 4324
+[2025-03-22 16:30:18] Verifying trainer ID: 4324
+[2025-03-22 16:30:18] Found trainer: john doe
+[2025-03-22 16:30:18] Trainer already checked in: 4324
+[2025-03-22 16:31:11] Verifying trainer ID: 4324
+RK-TRAINER-4324
+[2025-03-22 16:31:11] Extracted ID: 4324
+[2025-03-22 16:31:11] Found trainer: john doe
+[2025-03-22 16:31:11] Found trainer: john doe
+[2025-03-22 16:31:11] Trainer already checked in: 4324
+[2025-03-22 16:31:11] Trainer already checked in: 4324
+[2025-03-22 16:31:11] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 16:31:11] Extracted ID: 4324
+[2025-03-22 16:31:11] Found trainer: john doe
+[2025-03-22 16:31:11] Verifying trainer ID: 4324
+[2025-03-22 16:31:11] Trainer already checked in: 4324
+[2025-03-22 16:31:11] Found trainer: john doe
+[2025-03-22 16:31:11] Trainer already checked in: 4324
+[2025-03-22 16:31:11] Verifying trainer ID: 4324
+[2025-03-22 16:31:11] Found trainer: john doe
+[2025-03-22 16:31:11] Trainer already checked in: 4324
+[2025-03-22 16:31:27] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 16:31:27] Extracted ID: 4324
+[2025-03-22 16:31:27] Found trainer: john doe
+[2025-03-22 16:31:27] Found trainer: john doe
+[2025-03-22 16:31:27] Trainer verified successfully: 4324
+[2025-03-22 16:31:27] Trainer verified successfully: 4324
+[2025-03-22 16:31:27] Verifying trainer ID: 4324
+[2025-03-22 16:31:27] Found trainer: john doe
+SHARK-TRAINER-4324
+[2025-03-22 16:31:27] Extracted ID: 4324
+[2025-03-22 16:31:27] Trainer verified successfully: 4324
+[2025-03-22 16:31:27] Found trainer: john doe
+[2025-03-22 16:31:27] Trainer verified successfully: 4324
+[2025-03-22 16:31:27] Verifying trainer ID: 4324
+[2025-03-22 16:31:27] Found trainer: john doe
+[2025-03-22 16:31:27] Trainer already checked in: 4324
+[2025-03-22 16:31:41] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 16:31:41] Extracted ID: 4324
+[2025-03-22 16:31:41] Verifying trainer ID: 4324
+[2025-03-22 16:31:41] Found trainer: john doe
+[2025-03-22 16:31:41] Trainer already checked in: 4324
+[2025-03-22 16:31:41] Found trainer: john doe
+[2025-03-22 16:31:41] Trainer already checked in: 4324
+[2025-03-22 16:31:41] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 16:31:41] Verifying trainer ID: 4324
+[2025-03-22 16:31:41] Extracted ID: 4324
+[2025-03-22 16:31:41] Found trainer: john doe
+[2025-03-22 16:31:41] Found trainer: john doe
+[2025-03-22 16:31:41] Trainer already checked in: 4324
+[2025-03-22 16:31:41] Verifying trainer ID: 4324
+[2025-03-22 16:31:41] Found trainer: john doe
+[2025-03-22 16:31:41] Trainer already checked in: 4324
+[2025-03-22 16:49:36] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 16:49:36] Extracted ID: 4324
+[2025-03-22 16:49:36] Verifying trainer ID: 4324
+[2025-03-22 16:49:36] Found trainer: john doe
+[2025-03-22 16:49:36] Trainer verified successfully: 4324
+[2025-03-22 16:49:36] Trainer verified successfully: 4324
+[2025-03-22 16:49:36] Verifying trainer ID: 4324
+[2025-03-22 16:49:36] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 16:49:36] Extracted ID: 4324
+doe
+[2025-03-22 16:49:36] Found trainer: john doe
+ully: 4324
+[2025-03-22 16:49:36] Trainer verified successfully: 4324
+[2025-03-22 16:49:36] Verifying trainer ID: 4324
+[2025-03-22 16:49:36] Found trainer: john doe
+[2025-03-22 16:49:36] Trainer verified successfully: 4324
+[2025-03-22 16:55:49] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 16:55:49] Extracted ID: 4324
+[2025-03-22 16:55:49] Found trainer: john doe
+[2025-03-22 16:55:49] Verifying trainer ID: 4324
+[2025-03-22 16:55:49] Trainer verified successfully: 4324
+[2025-03-22 16:55:49] Trainer verified successfully: 4324
+[2025-03-22 16:55:49] Verifying trainer ID: 4324
+[2025-03-22 16:55:49] Found trainer: john doe
+[2025-03-22 16:55:49] Trainer verified successfully: 4324
+[2025-03-22 16:55:49] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 16:55:49] Extracted ID: 4324
+[2025-03-22 16:55:49] Found trainer: john doe
+[2025-03-22 16:55:49] Trainer verified successfully: 4324
+[2025-03-22 16:55:49] Verifying trainer ID: 4324
+[2025-03-22 16:55:49] Found trainer: john doe
+[2025-03-22 16:55:49] Trainer already checked in: 4324
+[2025-03-22 17:18:52] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 17:18:52] Verifying trainer ID: 4324
+[2025-03-22 17:18:52] Extracted ID: GYMSHARK-TRAINER-4324
+[2025-03-22 17:18:52] Trainer not found: GYMSHARK-TRAINER-4324
+[2025-03-22 17:18:52] Trainer already checked in: 4324
+[2025-03-22 17:18:52] Verifying trainer ID: GYMSHARK-TRAINER-4324
+[2025-03-22 17:18:52] Extracted ID: GYMSHARK-TRAINER-4324
+[2025-03-22 17:18:52] Trainer not found: GYMSHARK-TRAINER-4324
+[2025-03-22 17:18:52] Verifying trainer ID: 4324
+[2025-03-22 17:18:52] Found trainer: john doe
+[2025-03-22 17:18:52] Trainer already checked in: 4324
+[2025-03-22 17:18:52] Verifying trainer ID: 4324
+[2025-03-22 17:18:52] Found trainer: john doe
+[2025-03-22 17:18:52] Trainer already checked in: 4324

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trainer Availability</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 p-6">
+    <div class="max-w-lg mx-auto bg-white p-6 rounded-lg shadow-md">
+        <h2 class="text-xl font-bold mb-4">Set Trainer Availability</h2>
+        <label class="block font-semibold mb-2">Select Days:</label>
+        <div class="grid grid-cols-2 gap-2 mb-4">
+            <label><input type="checkbox" value="Monday" class="day-checkbox"> Monday</label>
+            <label><input type="checkbox" value="Tuesday" class="day-checkbox"> Tuesday</label>
+            <label><input type="checkbox" value="Wednesday" class="day-checkbox"> Wednesday</label>
+            <label><input type="checkbox" value="Thursday" class="day-checkbox"> Thursday</label>
+            <label><input type="checkbox" value="Friday" class="day-checkbox"> Friday</label>
+            <label><input type="checkbox" value="Saturday" class="day-checkbox"> Saturday</label>
+            <label><input type="checkbox" value="Sunday" class="day-checkbox"> Sunday</label>
+        </div>
+        
+        <div id="time-slots"></div>
+        
+        <button onclick="submitAvailability()" class="mt-4 bg-blue-500 text-white px-4 py-2 rounded">Submit</button>
+    </div>
+
+    <script>
+        document.querySelectorAll('.day-checkbox').forEach(checkbox => {
+            checkbox.addEventListener('change', function() {
+                const timeSlotsDiv = document.getElementById('time-slots');
+                const day = this.value;
+                if (this.checked) {
+                    let timeInput = document.createElement('div');
+                    timeInput.classList.add('mb-3');
+                    timeInput.innerHTML = `
+                        <label class="font-semibold">${day}</label>
+                        <div class="flex gap-2 mt-1">
+                            <input type="time" class="start-time border p-2 rounded" data-day="${day}">
+                            <input type="time" class="end-time border p-2 rounded" data-day="${day}">
+                        </div>
+                    `;
+                    timeSlotsDiv.appendChild(timeInput);
+                } else {
+                    document.querySelectorAll(`[data-day='${day}']`).forEach(el => el.parentElement.parentElement.remove());
+                }
+            });
+        });
+        
+        function submitAvailability() {
+            let availability = [];
+            document.querySelectorAll('.start-time').forEach(startTimeInput => {
+                let day = startTimeInput.dataset.day;
+                let startTime = startTimeInput.value;
+                let endTime = document.querySelector(`.end-time[data-day='${day}']`).value;
+                if (startTime && endTime) {
+                    availability.push({ day, startTime, endTime });
+                }
+            });
+            console.log("Submitted Availability:", availability);
+            // Here you can use AJAX to send the data to your backend
+        }
+    </script>
+</body>
+</html>

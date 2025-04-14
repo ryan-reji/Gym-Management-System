@@ -1,0 +1,1013 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GymShark Live Chat</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="chat.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+       
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Mobile Navigation Toggle -->
+        <div class="mobile-nav-toggle">
+            <i class="fas fa-bars"></i>
+        </div>
+
+        <!-- Sidebar Navigation -->
+        <nav class="sidebar">
+            <div class="sidebar-header">
+                <i class="fas fa-dumbbell logo-icon"></i>
+                <h2>GymShark</h2>
+                <div class="close-sidebar">
+                    <i class="fas fa-times"></i>
+                </div>
+            </div>
+            
+            <div class="user-profile">
+                <div class="avatar">
+                    <i class="fas fa-user"></i>
+                </div>
+                <div class="user-info">
+                    <h3>Welcome</h3>
+                    <p>Fitness Enthusiast</p>
+                </div>
+            </div>
+
+            <ul class="nav-links">
+                <li>
+                    <a href="index.html">
+                        <i class="fas fa-home"></i>
+                        <span>Home</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="bookings.html">
+                        <i class="fas fa-calendar-alt"></i>
+                        <span>Bookings</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="profile.html">
+                        <i class="fas fa-user-circle"></i>
+                        <span>Profile</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="statistics.html">
+                        <i class="fas fa-chart-line"></i>
+                        <span>Statistics</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="plans.html">
+                        <i class="fas fa-tasks"></i>
+                        <span>Workout Plans</span>
+                    </a>
+                </li>
+                <li class="active">
+                    <a href="chat.html">
+                        <i class="fas fa-comments"></i>
+                        <span>Live Chat</span>
+                    </a>
+                </li>
+            </ul>
+
+            <div class="sidebar-footer">
+                <a href="logout.html" class="logout-button">
+                    <i class="fas fa-sign-out-alt"></i>
+                    <span>Logout</span>
+                </a>
+            </div>
+        </nav>
+        
+        <!-- Main Content -->
+        <div class="main-content">
+            <div class="header">
+                <div class="greeting">
+                    <h1>Live Chat</h1>
+                    <p>Connect with members and trainers</p>
+                </div>
+                <div class="header-actions">
+                    <div class="notification-icon">
+                        <i class="fas fa-bell"></i>
+                        <span class="badge">3</span>
+                    </div>
+                    <div class="date-display">
+                        <i class="fas fa-calendar"></i>
+                        <span id="current-date">April 2, 2025</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="chat-container">
+                <!-- Chat Sidebar -->
+                <div class="chat-sidebar" id="chat-sidebar">
+                    <div class="chat-header">
+                        <h2><i class="fas fa-comments" style="color: var(--primary-color);"></i> Messages</h2>
+                    </div>
+                    <div class="chat-search">
+                        <i class="fas fa-search"></i>
+                        <input type="text" placeholder="Search people or messages">
+                    </div>
+                    <div class="chat-tabs">
+                        <div class="chat-tab active" data-tab="all">All</div>
+                        <div class="chat-tab" data-tab="members">Members</div>
+                        <div class="chat-tab" data-tab="trainers">Trainers</div>
+                    </div>
+                    <div class="chat-users">
+                        <div class="user-category">Active Now</div>
+                        <div class="chat-user active" data-user="mike-trainer">
+                            <div class="user-avatar trainer">
+                                MT
+                                <div class="trainer-badge">
+                                    <i class="fas fa-dumbbell"></i>
+                                </div>
+                                <div class="user-status status-online"></div>
+                            </div>
+                            <div class="user-details">
+                                <div class="user-name">Mike Thompson</div>
+                                <div class="user-last-message">Let's review your progress this week</div>
+                            </div>
+                            <div class="user-meta">
+                                <div class="message-time">10:45 AM</div>
+                                <div class="message-badge">2</div>
+                            </div>
+                        </div>
+                        <div class="chat-user" data-user="sarah-member">
+                            <div class="user-avatar">
+                                SK
+                                <div class="user-status status-online"></div>
+                            </div>
+                            <div class="user-details">
+                                <div class="user-name">Sarah Kim</div>
+                                <div class="user-last-message">Are you going to the HIIT class?</div>
+                            </div>
+                            <div class="user-meta">
+                                <div class="message-time">9:32 AM</div>
+                            </div>
+                        </div>
+                        <div class="chat-user" data-user="jason-member">
+                            <div class="user-avatar">
+                                JD
+                                <div class="user-status status-online"></div>
+                            </div>
+                            <div class="user-details">
+                                <div class="user-name">Jason Diaz</div>
+                                <div class="user-last-message">Thanks for the spot yesterday!</div>
+                            </div>
+                            <div class="user-meta">
+                                <div class="message-time">Yesterday</div>
+                            </div>
+                        </div>
+                        
+                        <div class="user-category">Trainers</div>
+                        <div class="chat-user" data-user="lisa-trainer">
+                            <div class="user-avatar trainer">
+                                LW
+                                <div class="trainer-badge">
+                                    <i class="fas fa-dumbbell"></i>
+                                </div>
+                                <div class="user-status status-offline"></div>
+                            </div>
+                            <div class="user-details">
+                                <div class="user-name">Lisa Wong</div>
+                                <div class="user-last-message">Your form is improving! Keep it up</div>
+                            </div>
+                            <div class="user-meta">
+                                <div class="message-time">Yesterday</div>
+                            </div>
+                        </div>
+                        
+                        <div class="user-category">Members</div>
+                        <div class="chat-user" data-user="david-member">
+                            <div class="user-avatar">
+                                DR
+                                <div class="user-status status-offline"></div>
+                            </div>
+                            <div class="user-details">
+                                <div class="user-name">David Rogers</div>
+                                <div class="user-last-message">What's a good protein shake recipe?</div>
+                            </div>
+                            <div class="user-meta">
+                                <div class="message-time">2 days ago</div>
+                            </div>
+                        </div>
+                        <div class="chat-user" data-user="emma-member">
+                            <div class="user-avatar">
+                                EH
+                                <div class="user-status status-offline"></div>
+                            </div>
+                            <div class="user-details">
+                                <div class="user-name">Emma Hernandez</div>
+                                <div class="user-last-message">Great workout today!</div>
+                            </div>
+                            <div class="user-meta">
+                                <div class="message-time">3 days ago</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Chat Main Area -->
+                <div class="chat-main" id="chat-main">
+                    <div class="chat-main-header">
+                        <div class="mobile-back-btn" id="back-to-users">
+                            <i class="fas fa-arrow-left"></i>
+                        </div>
+                        <div class="chat-user-info">
+                            <div class="user-avatar trainer">
+                                MT
+                                <div class="trainer-badge">
+                                    <i class="fas fa-dumbbell"></i>
+                                </div>
+                            </div>
+                            <div>
+                                <div class="chat-user-name">Mike Thompson</div>
+                                <div class="chat-user-status">
+                                    <span class="status-dot" style="width:8px;height:8px;background:#4caf50;border-radius:50%;display:inline-block;"></span> Online
+                                </div>
+                            </div>
+                        </div>
+                        <div class="chat-actions">
+                            <div class="chat-action-btn" title="Call">
+                                <i class="fas fa-phone-alt"></i>
+                            </div>
+                            <div class="chat-action-btn" title="Video">
+                                <i class="fas fa-video"></i>
+                            </div>
+                            <div class="chat-action-btn" title="Options">
+                                <i class="fas fa-ellipsis-v"></i>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="chat-messages" id="chat-messages">
+                        <div class="message-info">April 1, 2025</div>
+                        
+                        <div class="message-group received">
+                            <div class="user-avatar-small trainer">MT</div>
+                            <div class="message-bubble">
+                                Hey there! Just checking in on your progress with the new workout plan. How's it going so far?
+                            </div>
+                            <div class="message-time-received">
+                                5:30 PM
+                                <div class="message-expiry">Expires in 15 hours</div>
+                            </div>
+                        </div>
+                        
+                        <div class="message-group sent">
+                            <div class="message-bubble">
+                                Hi Mike! It's going well, I've managed to complete all the exercises you recommended. The deadlifts are still a bit challenging though.
+                            </div>
+                            <div class="message-time-sent">
+                                5:45 PM
+                                <div class="message-expiry">Expires in 15 hours</div>
+                            </div>
+                        </div>
+                        
+                        <div class="message-info">Today</div>
+                        
+                        <div class="message-group received">
+                            <div class="user-avatar-small trainer">MT</div>
+                            <div class="message-bubble">
+                                That's great to hear! Deadlifts are tricky for many people. Let's review your form this week. I can show you some modifications that might help.
+                            </div>
+                            <div class="message-time-received">
+                                10:30 AM
+                                <div class="message-expiry">Expires in 30 hours</div>
+                            </div>
+                        </div>
+                        
+                        <div class="message-group received">
+                            <div class="user-avatar-small trainer">MT</div>
+                            <div class="message-bubble">
+                                Also, I've seen your consistency on the attendance board. Keep up the great work! Remember to stay hydrated during your workouts.
+                            </div>
+                            <div class="message-time-received">
+                                10:31 AM
+                                <div class="message-expiry">Expires in 30 hours</div>
+                            </div>
+                        </div>
+                        
+                        <div class="message-group received">
+                            <div class="user-avatar-small trainer">MT</div>
+                            <div class="message-bubble">
+                                Let's review your progress this week. Would you be available for a quick session on Thursday?
+                            </div>
+                            <div class="message-time-received">
+                                10:45 AM
+                                <div class="message-expiry">Expires in 30 hours</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="chat-input-container">
+                        <div class="chat-input-actions">
+                            <div class="chat-input-btn" title="Attach file">
+                                <i class="fas fa-paperclip"></i>
+                            </div>
+                            <div class="chat-input-btn" title="Emojis">
+                                <i class="far fa-smile"></i>
+                            </div>
+                        </div>
+                        <textarea class="chat-input" placeholder="Type a message..." rows="1"></textarea>
+                        <div class="chat-send-btn">
+                            <i class="fas fa-paper-plane"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+<!-- This HTML snippet should be added to the bottom of your HTML file, just before the closing </body> tag -->
+
+<!-- Empty state template (shown when no chat is selected or for new users) -->
+<template id="empty-chat-template">
+    <div class="chat-empty-state">
+        <div class="chat-empty-icon">
+            <i class="far fa-comments"></i>
+        </div>
+        <div class="chat-empty-text">Start a conversation</div>
+        <div class="chat-empty-subtext">
+            Connect with other members and trainers to discuss your fitness journey, get advice, or simply chat.
+        </div>
+        <button class="start-chat-btn">
+            <i class="fas fa-plus"></i> New Message
+        </button>
+    </div>
+</template>
+
+<!-- New message modal template -->
+<template id="new-message-template">
+    <div class="modal-overlay">
+        <div class="modal-container">
+            <div class="modal-header">
+                <h3>New Message</h3>
+                <button class="modal-close-btn"><i class="fas fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="modal-search">
+                    <i class="fas fa-search"></i>
+                    <input type="text" placeholder="Search for a member or trainer">
+                </div>
+                <div class="modal-contacts">
+                    <!-- Contacts will be populated here -->
+                </div>
+            </div>
+        </div>
+    </div>
+</template>
+
+<!-- Add emoji picker container -->
+<div id="emoji-picker" class="emoji-picker-container" style="display: none;">
+    <div class="emoji-picker-header">
+        <div class="emoji-categories">
+            <span class="emoji-category active" data-category="smileys">😊</span>
+            <span class="emoji-category" data-category="people">👍</span>
+            <span class="emoji-category" data-category="animals">🐶</span>
+            <span class="emoji-category" data-category="food">🍔</span>
+            <span class="emoji-category" data-category="activities">⚽</span>
+            <span class="emoji-category" data-category="travel">🚗</span>
+            <span class="emoji-category" data-category="objects">💡</span>
+            <span class="emoji-category" data-category="symbols">❤️</span>
+        </div>
+    </div>
+    <div class="emoji-picker-content">
+        <!-- Emojis will be populated here -->
+    </div>
+</div>
+    <script>
+        // Current date display
+        const options = { year: 'numeric', month: 'long', day: 'numeric' };
+        document.getElementById('current-date').textContent = new Date().toLocaleDateString('en-US', options);
+        
+        // Toggle mobile sidebar
+        document.querySelector('.mobile-nav-toggle').addEventListener('click', function() {
+            document.querySelector('.sidebar').classList.add('active');
+        });
+        
+        document.querySelector('.close-sidebar').addEventListener('click', function() {
+            document.querySelector('.sidebar').classList.remove('active');
+        });
+// Chat functionality
+document.addEventListener('DOMContentLoaded', function() {
+    // Current date display
+    const options = { year: 'numeric', month: 'long', day: 'numeric' };
+    document.getElementById('current-date').textContent = new Date().toLocaleDateString('en-US', options);
+    
+    // Toggle mobile sidebar
+    document.querySelector('.mobile-nav-toggle').addEventListener('click', function() {
+        document.querySelector('.sidebar').classList.add('active');
+    });
+    
+    document.querySelector('.close-sidebar').addEventListener('click', function() {
+        document.querySelector('.sidebar').classList.remove('active');
+    });
+
+    // Chat functionality
+    const chatUsers = document.querySelectorAll('.chat-user');
+    const chatMain = document.getElementById('chat-main');
+    const chatSidebar = document.getElementById('chat-sidebar');
+    const backToUsers = document.getElementById('back-to-users');
+    const chatMessages = document.getElementById('chat-messages');
+    const chatInput = document.querySelector('.chat-input');
+    const sendButton = document.querySelector('.chat-send-btn');
+    
+    // Mobile navigation for chat
+    backToUsers.addEventListener('click', function() {
+        chatMain.classList.add('mobile-hidden');
+        chatSidebar.classList.remove('mobile-hidden');
+    });
+    
+    // User selection
+    chatUsers.forEach(user => {
+        user.addEventListener('click', function() {
+            // Remove active class from all users
+            chatUsers.forEach(u => u.classList.remove('active'));
+            // Add active class to clicked user
+            this.classList.add('active');
+            
+            // Get user data
+            const userId = this.getAttribute('data-user');
+            const userName = this.querySelector('.user-name').textContent;
+            const isTrainer = this.querySelector('.user-avatar').classList.contains('trainer');
+            const userInitials = this.querySelector('.user-avatar').textContent.trim();
+            const userStatus = this.querySelector('.user-status').classList.contains('status-online') ? 'Online' : 'Offline';
+            
+            // Update chat header with selected user
+            updateChatHeader(userName, userInitials, isTrainer, userStatus);
+            
+            // Load messages for this user
+            loadMessages(userId);
+            
+            // On mobile, hide sidebar and show chat
+            if (window.innerWidth <= 768) {
+                chatSidebar.classList.add('mobile-hidden');
+                chatMain.classList.remove('mobile-hidden');
+            }
+            
+            // Clear message badge
+            const messageBadge = this.querySelector('.message-badge');
+            if (messageBadge) messageBadge.remove();
+        });
+    });
+    
+    // Update chat header
+    function updateChatHeader(name, initials, isTrainer, status) {
+        const chatUserName = document.querySelector('.chat-user-name');
+        const chatUserAvatar = document.querySelector('.chat-main-header .user-avatar');
+        const chatUserStatus = document.querySelector('.chat-user-status');
+        
+        chatUserName.textContent = name;
+        chatUserAvatar.textContent = initials;
+        
+        // Update trainer status
+        if (isTrainer) {
+            chatUserAvatar.classList.add('trainer');
+            if (!chatUserAvatar.querySelector('.trainer-badge')) {
+                const trainerBadge = document.createElement('div');
+                trainerBadge.className = 'trainer-badge';
+                trainerBadge.innerHTML = '<i class="fas fa-dumbbell"></i>';
+                chatUserAvatar.appendChild(trainerBadge);
+            }
+        } else {
+            chatUserAvatar.classList.remove('trainer');
+            const badge = chatUserAvatar.querySelector('.trainer-badge');
+            if (badge) badge.remove();
+        }
+        
+        // Update status
+        const statusColor = status === 'Online' ? '#4caf50' : 'var(--text-tertiary)';
+        chatUserStatus.innerHTML = `<span class="status-dot" style="width:8px;height:8px;background:${statusColor};border-radius:50%;display:inline-block;"></span> ${status}`;
+    }
+    
+    // Load messages for a user
+    function loadMessages(userId) {
+        // In a real app, you would fetch messages from a server/database
+        // For now, we'll simulate with static content for demo
+        
+        // Clear current messages
+        chatMessages.innerHTML = '';
+        
+        // Create message groups based on the selected user
+        if (userId === 'mike-trainer') {
+            renderMessageGroups(mikeMessages);
+        } else if (userId === 'sarah-member') {
+            renderMessageGroups(sarahMessages);
+        } else if (userId === 'jason-member') {
+            renderMessageGroups(jasonMessages);
+        } else if (userId === 'lisa-trainer') {
+            renderMessageGroups(lisaMessages);
+        } else if (userId === 'david-member') {
+            renderMessageGroups(davidMessages);
+        } else if (userId === 'emma-member') {
+            renderMessageGroups(emmaMessages);
+        }
+    }
+    
+    // Render message groups
+    function renderMessageGroups(messages) {
+        let currentDate = '';
+        
+        messages.forEach(msg => {
+            // Check message date
+            const msgDate = new Date(msg.timestamp);
+            const today = new Date();
+            const yesterday = new Date();
+            yesterday.setDate(today.getDate() - 1);
+            
+            let dateStr = msgDate.toLocaleDateString();
+            let dateDisplay = dateStr;
+            
+            // Format the date display
+            if (dateStr === today.toLocaleDateString()) {
+                dateDisplay = 'Today';
+            } else if (dateStr === yesterday.toLocaleDateString()) {
+                dateDisplay = 'Yesterday';
+            }
+            
+            // Add date separator if needed
+            if (dateStr !== currentDate) {
+                currentDate = dateStr;
+                const dateInfo = document.createElement('div');
+                dateInfo.className = 'message-info';
+                dateInfo.textContent = dateDisplay;
+                chatMessages.appendChild(dateInfo);
+            }
+            
+            // Create message group
+            const msgGroup = document.createElement('div');
+            msgGroup.className = `message-group ${msg.sent ? 'sent' : 'received'}`;
+            
+            // If received message, add user avatar
+            if (!msg.sent) {
+                const userAvatar = document.createElement('div');
+                userAvatar.className = `user-avatar-small ${msg.isTrainer ? 'trainer' : ''}`;
+                userAvatar.textContent = msg.userInitials;
+                msgGroup.appendChild(userAvatar);
+            }
+            
+            // Add message bubble
+            const msgBubble = document.createElement('div');
+            msgBubble.className = 'message-bubble';
+            msgBubble.textContent = msg.text;
+            msgGroup.appendChild(msgBubble);
+            
+            // Add message time
+            const msgTime = document.createElement('div');
+            msgTime.className = msg.sent ? 'message-time-sent' : 'message-time-received';
+            
+            // Format time
+            const hours = msgDate.getHours();
+            const minutes = msgDate.getMinutes();
+            const timeStr = `${hours > 12 ? hours - 12 : hours}:${minutes < 10 ? '0' + minutes : minutes} ${hours >= 12 ? 'PM' : 'AM'}`;
+            msgTime.textContent = timeStr;
+            
+            // Calculate expiry time
+            const now = new Date();
+            const msgAge = (now - msgDate) / (1000 * 60 * 60); // Age in hours
+            const expiryHours = 30 - msgAge;
+            
+            // Only show non-expired messages
+            if (expiryHours > 0) {
+                // Add expiry info
+                const msgExpiry = document.createElement('div');
+                msgExpiry.className = 'message-expiry';
+                msgExpiry.textContent = `Expires in ${Math.floor(expiryHours)} hours`;
+                msgTime.appendChild(msgExpiry);
+                
+                msgGroup.appendChild(msgTime);
+                chatMessages.appendChild(msgGroup);
+            }
+        });
+        
+        // Scroll to bottom
+        chatMessages.scrollTop = chatMessages.scrollHeight;
+    }
+    
+    // Handle sending messages
+    sendButton.addEventListener('click', sendMessage);
+    chatInput.addEventListener('keydown', function(e) {
+        if (e.key === 'Enter' && !e.shiftKey) {
+            e.preventDefault();
+            sendMessage();
+        }
+    });
+    
+    function sendMessage() {
+        const message = chatInput.value.trim();
+        if (!message) return;
+        
+        // Get active user
+        const activeUser = document.querySelector('.chat-user.active');
+        if (!activeUser) return;
+        
+        const userId = activeUser.getAttribute('data-user');
+        const userName = activeUser.querySelector('.user-name').textContent;
+        
+        // Create new message
+        const newMsg = {
+            sent: true,
+            text: message,
+            timestamp: new Date().toISOString(),
+            userId: userId
+        };
+        
+        // Add to appropriate message array based on active user
+        if (userId === 'mike-trainer') {
+            mikeMessages.push(newMsg);
+            updateLastMessage(activeUser, message);
+            renderMessageGroups(mikeMessages);
+        } else if (userId === 'sarah-member') {
+            sarahMessages.push(newMsg);
+            updateLastMessage(activeUser, message);
+            renderMessageGroups(sarahMessages);
+        } else if (userId === 'jason-member') {
+            jasonMessages.push(newMsg);
+            updateLastMessage(activeUser, message);
+            renderMessageGroups(jasonMessages);
+        } else if (userId === 'lisa-trainer') {
+            lisaMessages.push(newMsg);
+            updateLastMessage(activeUser, message);
+            renderMessageGroups(lisaMessages);
+        } else if (userId === 'david-member') {
+            davidMessages.push(newMsg);
+            updateLastMessage(activeUser, message);
+            renderMessageGroups(davidMessages);
+        } else if (userId === 'emma-member') {
+            emmaMessages.push(newMsg);
+            updateLastMessage(activeUser, message);
+            renderMessageGroups(emmaMessages);
+        }
+        
+        // Clear input
+        chatInput.value = '';
+        
+        // Simulate response after delay (for demo)
+        setTimeout(() => {
+            simulateResponse(userId);
+        }, 3000);
+    }
+    
+    // Update last message in the user list
+    function updateLastMessage(userElement, message) {
+        const lastMsgElement = userElement.querySelector('.user-last-message');
+        if (lastMsgElement) {
+            lastMsgElement.textContent = message;
+        }
+        
+        // Update time
+        const timeElement = userElement.querySelector('.message-time');
+        if (timeElement) {
+            const now = new Date();
+            const hours = now.getHours();
+            const minutes = now.getMinutes();
+            timeElement.textContent = `${hours > 12 ? hours - 12 : hours}:${minutes < 10 ? '0' + minutes : minutes} ${hours >= 12 ? 'PM' : 'AM'}`;
+        }
+        
+        // Move to top of active users
+        const userCategory = document.querySelector('.user-category');
+        const parent = userElement.parentNode;
+        parent.insertBefore(userElement, userCategory.nextSibling);
+    }
+    
+    // Simulate response for demo purposes
+    function simulateResponse(userId) {
+        // Choose appropriate response based on user
+        let responseText = '';
+        let userInitials = '';
+        let isTrainer = false;
+        
+        if (userId === 'mike-trainer') {
+            responseText = "Great! I'll add some deadlift tips to our next session. Would you like to try sumo stance?";
+            userInitials = 'MT';
+            isTrainer = true;
+        } else if (userId === 'sarah-member') {
+            responseText = "Yes! I'll be at the 6 PM HIIT class today. Let's meet up before it starts.";
+            userInitials = 'SK';
+        } else if (userId === 'jason-member') {
+            responseText = "Anytime! Always happy to help a gym buddy. Need a spot again today?";
+            userInitials = 'JD';
+        } else if (userId === 'lisa-trainer') {
+            responseText = "I just saw your message. We can work on your form in our next session!";
+            userInitials = 'LW';
+            isTrainer = true;
+        } else if (userId === 'david-member') {
+            responseText = "Try 1 scoop protein, banana, almond milk, and a tablespoon of peanut butter. Delicious!";
+            userInitials = 'DR';
+        } else if (userId === 'emma-member') {
+            responseText = "Thanks! Your dedication is inspiring. See you at the yoga class tomorrow?";
+            userInitials = 'EH';
+        }
+        
+        const newMsg = {
+            sent: false,
+            text: responseText,
+            timestamp: new Date().toISOString(),
+            userId: userId,
+            userInitials: userInitials,
+            isTrainer: isTrainer
+        };
+        
+        // Add to appropriate message array
+        const activeUser = document.querySelector('.chat-user.active');
+        if (!activeUser) return;
+        
+        if (userId === 'mike-trainer') {
+            mikeMessages.push(newMsg);
+            updateLastMessage(activeUser, responseText);
+            renderMessageGroups(mikeMessages);
+        } else if (userId === 'sarah-member') {
+            sarahMessages.push(newMsg);
+            updateLastMessage(activeUser, responseText);
+            renderMessageGroups(sarahMessages);
+        } else if (userId === 'jason-member') {
+            jasonMessages.push(newMsg);
+            updateLastMessage(activeUser, responseText);
+            renderMessageGroups(jasonMessages);
+        } else if (userId === 'lisa-trainer') {
+            lisaMessages.push(newMsg);
+            updateLastMessage(activeUser, responseText);
+            renderMessageGroups(lisaMessages);
+        } else if (userId === 'david-member') {
+            davidMessages.push(newMsg);
+            updateLastMessage(activeUser, responseText);
+            renderMessageGroups(davidMessages);
+        } else if (userId === 'emma-member') {
+            emmaMessages.push(newMsg);
+            updateLastMessage(activeUser, responseText);
+            renderMessageGroups(emmaMessages);
+        }
+        
+        // Add notification badge if not the active chat
+        if (!activeUser.classList.contains('active')) {
+            let badge = activeUser.querySelector('.message-badge');
+            if (!badge) {
+                badge = document.createElement('div');
+                badge.className = 'message-badge';
+                badge.textContent = '1';
+                activeUser.querySelector('.user-meta').appendChild(badge);
+            } else {
+                badge.textContent = parseInt(badge.textContent) + 1;
+            }
+        }
+    }
+    
+    // Filter tabs functionality
+    const chatTabs = document.querySelectorAll('.chat-tab');
+    
+    chatTabs.forEach(tab => {
+        tab.addEventListener('click', function() {
+            // Remove active class from all tabs
+            chatTabs.forEach(t => t.classList.remove('active'));
+            // Add active class to clicked tab
+            this.classList.add('active');
+            
+            // Filter users based on tab
+            const tabType = this.getAttribute('data-tab');
+            filterUsers(tabType);
+        });
+    });
+    
+    function filterUsers(tabType) {
+        chatUsers.forEach(user => {
+            const userId = user.getAttribute('data-user');
+            
+            if (tabType === 'all') {
+                user.style.display = 'flex';
+            } else if (tabType === 'trainers') {
+                if (userId.includes('trainer')) {
+                    user.style.display = 'flex';
+                } else {
+                    user.style.display = 'none';
+                }
+            } else if (tabType === 'members') {
+                if (userId.includes('member')) {
+                    user.style.display = 'flex';
+                } else {
+                    user.style.display = 'none';
+                }
+            }
+        });
+    }
+    
+    // Search functionality
+    const searchInput = document.querySelector('.chat-search input');
+    
+    searchInput.addEventListener('input', function() {
+        const searchValue = this.value.toLowerCase();
+        
+        chatUsers.forEach(user => {
+            const userName = user.querySelector('.user-name').textContent.toLowerCase();
+            const lastMessage = user.querySelector('.user-last-message').textContent.toLowerCase();
+            
+            if (userName.includes(searchValue) || lastMessage.includes(searchValue)) {
+                user.style.display = 'flex';
+            } else {
+                user.style.display = 'none';
+            }
+        });
+    });
+    
+    // Message expiry checker (runs every hour)
+    function checkMessageExpiry() {
+        const now = new Date();
+        
+        // Check all message arrays
+        [mikeMessages, sarahMessages, jasonMessages, lisaMessages, davidMessages, emmaMessages].forEach(messages => {
+            // Filter out expired messages (older than 30 hours)
+            messages = messages.filter(msg => {
+                const msgDate = new Date(msg.timestamp);
+                const msgAge = (now - msgDate) / (1000 * 60 * 60); // Age in hours
+                return msgAge <= 30;
+            });
+        });
+        
+        // Refresh active chat
+        const activeUser = document.querySelector('.chat-user.active');
+        if (activeUser) {
+            const userId = activeUser.getAttribute('data-user');
+            loadMessages(userId);
+        }
+    }
+    
+    // Run expiry check every hour
+    setInterval(checkMessageExpiry, 60 * 60 * 1000);
+    
+    // Initial expiry check
+    checkMessageExpiry();
+    
+    // Demo message data (would come from a database in a real app)
+    // Mike (Trainer) messages
+    const mikeMessages = [
+        {
+            sent: false,
+            text: "Hey there! Just checking in on your progress with the new workout plan. How's it going so far?",
+            timestamp: "2025-04-01T17:30:00",
+            userId: "mike-trainer",
+            userInitials: "MT",
+            isTrainer: true
+        },
+        {
+            sent: true,
+            text: "Hi Mike! It's going well, I've managed to complete all the exercises you recommended. The deadlifts are still a bit challenging though.",
+            timestamp: "2025-04-01T17:45:00",
+            userId: "mike-trainer"
+        },
+        {
+            sent: false,
+            text: "That's great to hear! Deadlifts are tricky for many people. Let's review your form this week. I can show you some modifications that might help.",
+            timestamp: "2025-04-02T10:30:00",
+            userId: "mike-trainer",
+            userInitials: "MT",
+            isTrainer: true
+        },
+        {
+            sent: false,
+            text: "Also, I've seen your consistency on the attendance board. Keep up the great work! Remember to stay hydrated during your workouts.",
+            timestamp: "2025-04-02T10:31:00",
+            userId: "mike-trainer",
+            userInitials: "MT",
+            isTrainer: true
+        },
+        {
+            sent: false,
+            text: "Let's review your progress this week. Would you be available for a quick session on Thursday?",
+            timestamp: "2025-04-02T10:45:00",
+            userId: "mike-trainer",
+            userInitials: "MT",
+            isTrainer: true
+        }
+    ];
+    
+    // Sarah (Member) messages
+    const sarahMessages = [
+        {
+            sent: false,
+            text: "Are you going to the HIIT class today?",
+            timestamp: "2025-04-02T09:32:00",
+            userId: "sarah-member",
+            userInitials: "SK",
+            isTrainer: false
+        }
+    ];
+    
+    // Jason (Member) messages
+    const jasonMessages = [
+        {
+            sent: false,
+            text: "Thanks for the spot yesterday! Couldn't have finished those last reps without you.",
+            timestamp: "2025-04-01T14:15:00",
+            userId: "jason-member",
+            userInitials: "JD",
+            isTrainer: false
+        }
+    ];
+    
+    // Lisa (Trainer) messages
+    const lisaMessages = [
+        {
+            sent: false,
+            text: "Your form is improving! Keep focusing on engaging your core during the squat. We'll work more on depth next time.",
+            timestamp: "2025-04-01T16:40:00",
+            userId: "lisa-trainer",
+            userInitials: "LW",
+            isTrainer: true
+        }
+    ];
+    
+    // David (Member) messages
+    const davidMessages = [
+        {
+            sent: false,
+            text: "What's a good protein shake recipe? Looking for something that doesn't taste chalky.",
+            timestamp: "2025-03-31T11:20:00",
+            userId: "david-member",
+            userInitials: "DR",
+            isTrainer: false
+        }
+    ];
+    
+    // Emma (Member) messages
+    const emmaMessages = [
+        {
+            sent: false,
+            text: "Great workout today! Thanks for the motivation during those last few sets. I was ready to give up!",
+            timestamp: "2025-03-30T19:15:00",
+            userId: "emma-member",
+            userInitials: "EH",
+            isTrainer: false
+        }
+    ];
+    
+    // Storage of chat data (for persistent chat)
+    // In a real app, these would be stored in a database/localStorage
+    function saveChats() {
+        // Store all chat data in localStorage
+        const chatData = {
+            mikeMessages,
+            sarahMessages,
+            jasonMessages,
+            lisaMessages,
+            davidMessages,
+            emmaMessages
+        };
+        
+        localStorage.setItem('gymsharkChatData', JSON.stringify(chatData));
+    }
+    
+    function loadChats() {
+        // Load chat data from localStorage
+        const chatData = localStorage.getItem('gymsharkChatData');
+        
+        if (chatData) {
+            const parsedData = JSON.parse(chatData);
+            
+            // Update message arrays
+            if (parsedData.mikeMessages) mikeMessages = parsedData.mikeMessages;
+            if (parsedData.sarahMessages) sarahMessages = parsedData.sarahMessages;
+            if (parsedData.jasonMessages) jasonMessages = parsedData.jasonMessages;
+            if (parsedData.lisaMessages) lisaMessages = parsedData.lisaMessages;
+            if (parsedData.davidMessages) davidMessages = parsedData.davidMessages;
+            if (parsedData.emmaMessages) emmaMessages = parsedData.emmaMessages;
+        }
+    }
+    
+    // Save chats when window is closed
+    window.addEventListener('beforeunload', saveChats);
+    
+    // Load chats when page is loaded
+    loadChats();
+    
+    // Auto-resize textarea
+    chatInput.addEventListener('input', function() {
+        this.style.height = 'auto';
+        this.style.height = (this.scrollHeight) + 'px';
+        
+        // Cap the height
+        if (this.scrollHeight > 100) {
+            this.style.overflowY = 'auto';
+            this.style.height = '100px';
+        } else {
+            this.style.overflowY = 'hidden';
+        }
+    });
+    
+    // Initialize with the first active user
+    const firstUser = document.querySelector('.chat-user.active');
+    if (firstUser) {
+        const userName = firstUser.querySelector('.user-name').textContent;
+        const userInitials = firstUser.querySelector('.user-avatar').textContent.trim();
+        const isTrainer = firstUser.querySelector('.user-avatar').classList.contains('trainer');
+        const userStatus = firstUser.querySelector('.user-status').classList.contains('status-online') ? 'Online' : 'Offline';
+        
+        updateChatHeader(userName, userInitials, isTrainer, userStatus);
+        loadMessages(firstUser.getAttribute('data-user'));
+    }
+});
+</script>
+</body>
+</html>

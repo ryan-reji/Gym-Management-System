@@ -1,0 +1,268 @@
+.about {
+    background-color: #000000; /* Dark background */
+    color: white; /* Text color */
+    padding: 40px 20px; /* Spacing around the content */
+    text-align: center; /* Center-aligns the text */
+    margin: 20px 0; /* Vertical spacing between sections */
+    border-radius: 8px; /* Rounded corners for the section */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5); /* Subtle shadow effect */
+}
+
+.about-content {
+    background-color: transparent; /* Keep the background transparent */
+    padding: 20px; /* Add some padding around the content */
+    border: 2px solid white; /* White border */
+    border-radius: 8px; /* Rounded corners for the border */
+    box-shadow: none; /* Remove shadow effect */
+}
+
+.about h2 {
+    font-size: 2.5rem; /* Main title size */
+    color: #b74b4b; /* Red color for emphasis */
+    margin-bottom: 20px; /* Space below the title */
+}
+
+.about-content h3 {
+    font-size: 2rem; /* Subtitle size */
+    margin: 20px 0; /* Space above and below subtitles */
+}
+
+.about-content p {
+    font-size: 2rem; /* Body text size */
+    margin: 10px 0 20px; /* Space around paragraphs */
+    line-height: 1.6; /* Line height for better readability */
+}
+
+.about-content h4 {
+    font-size: 2.5rem; /* Emphasized text size */
+    font-weight: bold; /* Bold text */
+    color: #b74b4b; /* Red color for emphasis */
+    margin-top: 20px; /* Space above the emphasized text */
+}
+
+/* New grid styles */
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Three equal columns */
+    gap: 20px; /* Space between grid items */
+    padding: 20px; /* Padding around the grid */
+    margin-top: 0px; /* Margin above the grid */
+    position: relative; /* Keep the grid positioned relative to its container */
+    top: -165px; /* Adjust the grid upward */
+}
+
+.grid-item {
+    background-color: #222; /* Dark background for grid items */
+    color: white; /* Text color */
+    padding: 20px;
+    border: 2px solid #ffffff; /* Border color */
+    border-radius: 8px; /* Rounded corners */
+    display: flex; /* Enable Flexbox */
+    flex-direction: column; /* Vertical layout */
+    justify-content: center; /* Center vertically */
+    align-items: center; /* Center horizontally */
+    text-align: center; /* Center text */
+    height: 320px; /* Adjust the height of the grid item */
+}
+
+.grid-item h4 {
+    font-size: 1.8rem; /* Title size for grid items */
+    color: #b74b4b; /* Emphasis color */
+    margin-bottom: 20px; /* Space below the title */
+    
+}
+.grid-item h3 {
+    font-size: 2rem; /* Adjust the size as needed */
+    margin-top: 0; /* Ensure no extra top margin */
+    padding-top: 20px; /* Add top padding for consistent alignment */
+    color: #b74b4b; /* Red color for emphasis */
+    text-align: center; /* Center align the header */
+}
+
+.grid-item p {
+    font-size: 1.5rem; /* Enlarge the text */
+    margin-bottom: 10px;
+    line-height: 1.8; /* Adjust line height for readability */
+}
+.grid-item {
+    min-height: 250px; /* Adjust this value to fit the content */
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start; /* Align the header to start from the same position */
+}
+.highlighted-days {
+    color: #b74b4b; /* Red color for the days */
+    font-size: 1.7rem; /* Larger font size for emphasis */
+    font-weight: bold; /* Make the text bold */
+}
+
+/* Ensure that the days text is centered with other content if needed */
+.grid-item p {
+    text-align: center; /* Center-align the paragraph */
+    margin-bottom: 10px; /* Add some space between the paragraphs */
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .about h2 {
+        font-size: 5rem; /* Adjust title size for smaller screens */
+    }
+
+    .about-content h3 {
+        font-size: 9rem; /* Adjust subtitle size */
+    }
+
+    .about-content p {
+        font-size: 5rem; /* Adjust body text size */
+    }
+
+    .about-content h4 {
+        font-size: 2.9rem; /* Adjust emphasized text size */
+    }
+
+    .grid-container {
+        grid-template-columns: 1fr; /* Stack grid items on smaller screens */
+    }
+}
+.btn {
+    display: inline-block;
+    padding: 1rem 2.8rem;
+    background-color: black;
+    border-radius: 4rem;
+    font-size: 1.5rem;
+    color: #b74b4b;
+    letter-spacing: 0.3rem;
+    font-weight: 600;
+    border: 2px solid #b74b4b;
+    transition: 0.3s ease;
+    cursor: pointer;
+}
+
+.btn:hover {
+    transform: scale3d(1.03);
+    background-color: #b74b4b;
+    color: black;
+    box-shadow: 0 0 25px #b74b4b;
+}
+/* Styling for the Opening Times Section */
+.opening-times {
+    background-color: #000000; /* Dark background */
+    color: white; /* Text color */
+    margin-top: -410px;
+    padding: 40px 20px; /* Spacing around the content */
+    text-align: center; /* Center-aligns the text */
+    /*margin: 20px 0; /* Vertical spacing between sections */
+    
+}
+.opening-content{
+    background-color: transparent; /* Keep the background transparent */
+    padding: 20px; /* Add some padding around the content */
+}
+.opening-times .inner-grid {
+    display: flex; /* Use flexbox for layout */
+    justify-content: space-between; /* Spread the items evenly */
+}
+
+.opening-times .day-grid {
+    border: 2px solid white; /* Border for each day grid */
+}
+
+
+.opening-times h3 {
+    font-size: 2.5rem; /* Main title size */
+    color: #b74b4b; /* Red color for emphasis */
+    margin-bottom: 20px; /* Space below the title */
+}
+
+/* Grid container for the times */
+.times-grid {
+    display: flex;
+    justify-content: space-evenly; /* Space items evenly */
+    /*align-items: normal; /* Center items vertically */
+    flex-wrap: wrap; /* Allow items to wrap on smaller screens */
+    gap: 20px; /* Gap between grid items */
+}
+
+/* Each time item */
+.times-item {
+    background-color: #222; /* Transparent background */
+    border: 2px solid white; /* White border */
+    padding: 20px; /* Padding inside each grid item */
+    border-radius: 8px; /* Rounded corners */
+    width: 30%; /* Adjust width of each grid item */
+    box-sizing: border-box; /* Ensure padding doesn't affect total width */
+}
+
+.times-item p {
+    font-size: 1.5rem; /* Text size */
+    margin: 0;
+}
+
+.highlighted-days {
+    color: #b74b4b; /* Red color for days */
+    font-size: 1.7rem; /* Slightly larger font for days */
+    font-weight: bold; /* Bold text */
+}
+
+/* Responsive Design for Smaller Screens */
+@media (max-width: 300px) {
+    .times-item {
+        width: 100%; /* Make each item full-width on smaller screens */
+    }
+} 
+/* Map Section */
+.map-section {
+    background-color: #000000; /* Match with the dark theme */
+    color: white;
+    padding: 20px;
+    margin: -360px 0 20px; /* Space between the map and the opening times */
+    text-align: center;
+}
+/* Adjust map size */
+#map {
+    width: 25%; /* Reduce width to 80% of its container */
+    height: 190px; /* Reduce the height to 300px */
+    margin: 0 auto; /* Center the map horizontally */
+    border: 2px solid white; /* Optional: add a border around the map for styling */
+    border-radius: 8px; /* Optional: add rounded corners */
+}
+
+.map-section h3 {
+    font-size: 2.5rem;
+    color: #b74b4b; /* Red color for emphasis */
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#map {
+    width: 100%;
+    height: 400px; /* Adjust the height as needed */
+    border: 2px solid white;
+    border-radius: 8px; /* Rounded corners */
+}
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+    #map {
+        height: 300px; /* Adjust the height for smaller screens */
+    }
+}
+.map-container {
+    position: relative;
+    padding-bottom: 56.25%; /* Aspect ratio for a 16:9 view */
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+    background-color: #f0f0f0;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+}
+
+.map-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
