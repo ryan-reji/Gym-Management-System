@@ -1,0 +1,14 @@
+# Ignore logs and environment files
+*.log
+*.env
+
+# Ignore vendor (Composer packages)
+/vendor/
+
+# Ignore IDE settings
+.vscode/
+.idea/
+
+# Ignore system-specific files
+Thumbs.db
+.DS_Store
