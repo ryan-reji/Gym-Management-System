@@ -22,7 +22,7 @@ $name = $user['FirstName'] . ' ' . $user['LastName'];
 $email = $user['email'];
 $mobile = $user['number'];
 
-$razorpay_key = 'rzp_test_mB727DyAjJMcbZ'; // Or move to config/env
+$razorpay_key = 'razorpay_test_or_live_key'; // Or move to config/env
 
 // Calculate total cost in case it's missing from session
 $total_cost = $_SESSION['renew_amount']; // Already fetched, but ensures consistency

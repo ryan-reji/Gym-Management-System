@@ -34,7 +34,7 @@ $booking = $result->fetch_assoc();
 $total_cost = $booking['total_cost']; // Total cost from DB
 
 // Razorpay API Key (Replace with your actual key)
-$razorpay_api_key = 'rzp_test_mB727DyAjJMcbZ';
+$razorpay_api_key = 'razorpay_test_key';
 ?>
 
 <div class="container mt-5">
