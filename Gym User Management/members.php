@@ -38,65 +38,72 @@ $time_left = $interval->days . " days";
  
 <!-- Sidebar Navigation -->
 <nav class="sidebar">
-    <div class="sidebar-header">
-        <i class="fas fa-dumbbell logo-icon"></i>
-        <h2>GymShark</h2>
-        <div class="close-sidebar">
-            <i class="fas fa-times"></i>
-        </div>
+            <div class="sidebar-header">
+                <i class="fas fa-dumbbell logo-icon"></i>
+                <h2>GymShark</h2>
+                <div class="close-sidebar">
+                    <i class="fas fa-times"></i>
+                </div>
+            </div>
+            
+            <div class="user-profile">
+                <div class="avatar">
+                    <i class="fas fa-user"></i>
+                </div>
+                <div class="user-info">
+        <h3><?php echo htmlspecialchars($_SESSION["display_name"] ?? $_SESSION["username"]); ?></h3>
+        <p>Member</p> <!-- Always Member -->
     </div>
-    
-    <div class="user-profile">
-        <div class="avatar">
-            <i class="fas fa-user"></i>
-        </div>
-        <div class="user-info">
-            <h3>Welcome</h3>
-            <!--<p>JohnDoe123</p>-->
-        </div>
-    </div>
+            </div>
 
-    <ul class="nav-links">
-        <li>
-            <a href="index.php">
-                <i class="fas fa-home"></i>
-                <span>Home</span>
-            </a>
-        </li>
-        <li>
-            <a href="../user/trainer/">
-                <i class="fas fa-calendar-alt"></i>
-                <span>Bookings</span>
-            </a>
-        </li>
-        <li class="active">
-            <a href="members.html">
-                <i class="fas fa-user-circle"></i>
-                <span>Profile</span>
-            </a>
-        </li>
-        
-        <li>
-            <a href="#">
-                <i class="fas fa-tasks"></i>
-                <span>Workout Plans</span>
-            </a>
-        </li>
-        <li>
-                    <a href="bmi.html">
+            <ul class="nav-links">
+                <li>
+                    <a href="index.php">
+                        <i class="fas fa-home"></i>
+                        <span>Home</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="../user/trainer/">
+                        <i class="fas fa-calendar-alt"></i>
+                        <span>Bookings</span>
+                    </a>
+                </li>
+                <li class="active">
+                    <a href="members.php">
+                        <i class="fas fa-user-circle"></i>
+                        <span>Profile</span>
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="#">
+                        <i class="fas fa-tasks"></i>
+                        <span>Workout Plans</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="bmi.php">
                         <i class="fas fa-weight"></i>
                         <span>BMI Scale</span>
                     </a>
-         </li>
-    </ul>
+                </li>
+                <li>
+                    <a href="live_chat/Live_chat.php">
+                        <i class="fas fa-weight"></i>
+                        <span>Live Chat</span>
+                    </a>
+                </li>
+            </ul>
 
-    <div class="sidebar-footer">
-        <a href="../Login/logout.php" class="logout-button">
-            <i class="fas fa-sign-out-alt"></i>
-            <span>Logout</span>
-        </a>
-    </div>
-</nav>
+            <div class="sidebar-footer">
+                <a href="../Login/logout.php" class="logout-button">
+                    <i class="fas fa-sign-out-alt"></i>
+                    <span>Logout</span>
+                </a>
+            </div>
+        </nav>
+
     <div class="main-content">
         <div class="member-card">
             <div class="background-shape"></div>

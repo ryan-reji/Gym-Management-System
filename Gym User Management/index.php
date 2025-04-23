@@ -62,9 +62,9 @@ $days_left = $last_activity_date ? $today->diff(new DateTime($last_activity_date
                     <i class="fas fa-user"></i>
                 </div>
                 <div class="user-info">
-                    <h3>Welcome</h3>
-                    <!--<p>JohnDoe123</p>-->
-                </div>
+        <h3><?php echo htmlspecialchars($_SESSION["display_name"] ?? $_SESSION["username"]); ?></h3>
+        <p>Member</p> <!-- Always Member -->
+    </div>
             </div>
 
             <ul class="nav-links">
@@ -94,9 +94,15 @@ $days_left = $last_activity_date ? $today->diff(new DateTime($last_activity_date
                     </a>
                 </li>
                 <li>
-                    <a href="bmi.html">
+                    <a href="bmi.php">
                         <i class="fas fa-weight"></i>
                         <span>BMI Scale</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="live_chat/Live_chat.php">
+                        <i class="fas fa-weight"></i>
+                        <span>Live Chat</span>
                     </a>
                 </li>
             </ul>
