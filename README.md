@@ -50,3 +50,11 @@ The Gym Management System is a web-based application to streamline all major gym
 ### Running the Project
 - Open the project folder in your local XAMPP directory (usually `htdocs/`).
 - Access the project by opening a browser and going to `http://localhost/your_project_folder_name`.
+
+## 👥 Contributors
+
+- [@ryanreji](https://github.com/ryanreji) 
+- [@nathanjohncy](https://github.com/nathan12agent)
+- [@miguellopes](https://github.com/user11111111s) 
+
+
